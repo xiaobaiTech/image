@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T16:17:54.747Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" version="14.2.6" etag="JO9U5dBGjYyG2U4lnrJP" type="github"><diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">7Vpbc6M2FP41nmkfugPi/pj1JulD09mp2+2zYmRQIyMqRLD311cCydx8STx4MW6ch0gHcSR933fEkWBmzdebRwbT+ImGiMyAEW5m1pcZAKZt2eKftGwrix0ElSFiOFSNasMCf0fKaChrjkOUtRpySgnHadu4pEmClrxlg4zRot1sRUm71xRGqGdYLCHR1k9Obf8bhzxWdtMN6gu/IhzFqnMfuNWFZ7h8iRjNE9XjDFir8lddXkPtS001i2FIi4bJup9Zc0Ypr0rrzRwRia4GTt/Ht3q0M+tzzNdEVExRLC8/HLjZfMvNYnIMJbzZ3SF/FjS9lblEjmOYwAnhL6qDV0hy1cGCrnghHArrnCacUdIbQxFjjhYpXMp6ISTVHtQOIllZCR9KMGJsoo4JmVNCWenKWjnyT94kenpBjStu+dtd0axKAEKYxSg8CIGeE2IcbRomBckjomvE2VY0UVe9wKtuUfK3bBUPRUNKjiIybqjIVTao9BvtXNcciIKi4a2UWD3AUSjkrqqIPNPivjZ8LsVbwmF0eOCQ8TsZXsKQ0ARp2wOWoymb/4M43yp+YM6pMFHGYxrRBJLfKE37NJq+qJejEBUJMhaBeIyIjOZsiQ7MFqjlArII8QNtFBsShaN0MkQgx6/tpWJYbuwPbtptnOvhxvngpt3GvR5u3A9u2m286+HGmwA35xGh89OjTIChmShvFTjAbaNBSnHCs4bnr9JQ5yCB0c5BPMfusFp5rDneDe082kEv85vnGadriWmB+TIWhSfIGd7MgEu4TLvwqyhGvKSjMj2zrkWMY0+7humnyrvYLoB5uSXIU4KYqq3xBrGqCNepMkLOUZJX5SwlWFRZ9vOhDofJVUvRvT9XHSIZ9dtCsJ09yai3JxkF/iWyUbu/QUjFFo7lUih3Imi33yVjU0fdNKwO7Pv2AOBH7QGcHuq/I15Q9nLboDtgTNDdHuhfaSFxNp4Qv0m8XWNMvL0e3g8M/fupPHjI5bPx9vD2x8R7z1HU9SV6gyXh/mRSP8/prILmhVM/vxd438QjncqVboEjwY8oPKIEMVgapx6GTnDmo3135jdsGPYPdW84DIMxwvBsboJeZNz9ISZuSI8iDaChDJFqujcXFq415sNJb9Ub0H/568/po+wFgX45pXf23h6cbWfP8gMuArT/f1p+TP068tj6o7V3BQuQHm8zDOS5h96JLPI0JRhl0w+M7vLjj7oXAWACUXFmCIx3CNo/5exsiDy9IdIuqpmou2o+TzuyO46q2fYcvftYFhw9lr2CY9wpvC0+KNxL683vHKbunr3v1VvPkXUZvfX6OaG3E+0voLcpvAEfT2/OCZm8WW9dR13hDqW3bj/v1Zt7ab1N4a3+eHrrPgbP1lvX0aX01u3nlN7cH623KXypMJ7ezKH01nV0Kb11+zmlN3tQvYlq/Wlo1bz+Ate6/w8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-11T01:03:32.262Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="kzJbVXGj8YfN7xZV_9wi" version="14.2.6" type="github">
+  <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
+    <mxGraphModel dx="510" dy="700" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="3a17f1ce550125da-1" value="表示层" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;dashed=1;glass=0;rounded=1;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="1022" y="360" width="208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pt0PsILdOiT2VAygzdEC-6" value="会话层" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;dashed=1;glass=0;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1022" y="420" width="208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pt0PsILdOiT2VAygzdEC-7" value="传输层" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;dashed=1;glass=0;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1022" y="480" width="208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pt0PsILdOiT2VAygzdEC-8" value="物理层" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;dashed=1;glass=0;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1022" y="670" width="208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pt0PsILdOiT2VAygzdEC-9" value="数据链路层" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;dashed=1;glass=0;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1022" y="600" width="208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pt0PsILdOiT2VAygzdEC-10" value="网络层" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;dashed=1;glass=0;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1022" y="540" width="208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pt0PsILdOiT2VAygzdEC-11" value="应用层" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;dashed=1;glass=0;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1022" y="290" width="208" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pt0PsILdOiT2VAygzdEC-14" value="传输层" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;dashed=1;glass=0;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1263" y="480" width="208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pt0PsILdOiT2VAygzdEC-16" value="数据链路层" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;dashed=1;glass=0;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1263" y="600" width="217" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pt0PsILdOiT2VAygzdEC-17" value="网络层" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;dashed=1;glass=0;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1263" y="540" width="208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pt0PsILdOiT2VAygzdEC-18" value="应用层" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;dashed=1;glass=0;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1263" y="290" width="207" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pt0PsILdOiT2VAygzdEC-20" value="&lt;h1&gt;OSI七层网络模型&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;glass=0;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="220" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pt0PsILdOiT2VAygzdEC-21" value="&lt;h1&gt;TCP/IP四层模型&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;glass=0;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1272.5" y="220" width="188" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pt0PsILdOiT2VAygzdEC-22" value="Telnet、SNMP" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;strokeWidth=1;dashed=1;glass=0;rounded=1;sketch=1;strokeColor=#FFE599;fillColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="360" width="208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pt0PsILdOiT2VAygzdEC-23" value="SMTP、DNS" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;strokeWidth=1;dashed=1;glass=0;rounded=1;sketch=1;strokeColor=#FFE599;fillColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="420" width="208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pt0PsILdOiT2VAygzdEC-24" value="TCP、 UDP" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;strokeWidth=1;dashed=1;glass=0;rounded=1;sketch=1;strokeColor=#FFE599;fillColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="480" width="208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pt0PsILdOiT2VAygzdEC-25" value="IEEE 802.1A" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;strokeWidth=1;dashed=1;glass=0;rounded=1;sketch=1;strokeColor=#FFE599;fillColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="670" width="208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pt0PsILdOiT2VAygzdEC-26" value="Ethernet、FDDI" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;strokeWidth=1;dashed=1;glass=0;rounded=1;sketch=1;strokeColor=#FFE599;fillColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="600" width="208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pt0PsILdOiT2VAygzdEC-27" value="IP、ICMP、ARP" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;strokeWidth=1;dashed=1;glass=0;rounded=1;sketch=1;strokeColor=#FFE599;fillColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="540" width="208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pt0PsILdOiT2VAygzdEC-28" value="&lt;font color=&quot;#ff0000&quot;&gt;HTTP（本篇主角）&lt;/font&gt;、FTP、SMTP" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;strokeWidth=1;dashed=1;glass=0;rounded=1;sketch=1;strokeColor=#FFE599;fillColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="290" width="208" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pt0PsILdOiT2VAygzdEC-29" value="&lt;h1 style=&quot;&quot;&gt;对应网络协议&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;glass=0;dashed=1;sketch=1;align=center;strokeColor=#FFE599;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="220" width="210" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
