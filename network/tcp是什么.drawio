@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-03-14T12:17:00.008Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="xn51VXv-UidsTUHvUClC" version="14.4.8" type="github"><diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">zZXBjpswEIafZo6VAEOAIySQvVTqNpXa7s0LDlgBHDlOSfr0HQcTQBApPe1ySPA/Yzvzf+MYyLq+bCU9ll9FzipwrPwCZAOOY9s2wS+tXDtl5TmdUEiem6RB2PG/zIiWUc88Z6dJohKiUvw4FTPRNCxTE41KKdpp2l5U012PtGAzYZfRaq7+5LkqTRWWNegvjBel2Zn0gXeaHQopzo3ZDhyyvz1duKb9Uib/VNJctCOJJEDWUgjVvdWXNau0tb1r3bz0QfT+syVr1DMTHNsjZtIfWp1N9ZB4EKYQR5C4+jNItBJtIPQhCSBABXNWEHsQmNknde29wx0QEw7iPa+qtaiEvAVIagW+5aEujjTjSrfGysLhSUlxYH1iIxo9t1R1hSNbLyMaNV7m9hjdtA7R68yL70tjUrHLSDJmbJmomZJXTDFREhowpm/7YTs0ge0ZrRw1wF2kpvGK+9KD+/hiADyG4SzACCHcQNRRsSC0NYM4hTDRDJBN5D3PwHaiKP7cDNwPRkAWz0OQQpT2LCxIfAjxGLjPO88Cb+U6n9p5rP7jrOf07dV7ezkk7fb9++nV//3LT77g0n07jHj8WH+b+Y4lqqlxi8aOoRiJVrxocJihcQz1WBvG8S6ITKDmea63iduSK7ZDfHrPFm8+1G5/9kzXYE2heAOUGYEFTo+h+NPz4M6huAtMnP9HgsPh5rnFRrc7Sf4B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-14T12:24:31.143Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="FBK0G62LzE429fBwHYqD" version="14.4.8" type="github">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="946" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="300" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="21531" value="基于字节流" style="ellipse;fillColor=#F08705;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;fontSize=30;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="90" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="21532" value="面向连接" style="ellipse;fillColor=#12AAB5;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;fontSize=30;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="90" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="21533" value="可靠的" style="ellipse;fillColor=#e85642;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;fontSize=30;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="215" y="90" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iaZQ5ZHkEwGbRsQ7YX7E-21540" value="TCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
