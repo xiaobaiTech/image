@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-03-14T23:18:34.136Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="oLqeFps35Ewo-gUlqMxI" version="14.4.8" type="github"><diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">7Vhdb5swFP01fuwEOE7IY0LSbtOmSeukSXtzwQGrBiNz87VfvwuYEEratVnXZFoiFPkeX39wz7F9DaFBurkxPE8+60go4jnRhtAZ8Tw2GuF/CWxrYDC2QGxkVENuC9zKn8KCjkWXMhJFxxG0ViDzLhjqLBMhdDBujF533RZadUfNeSx6wG3IVR/9LiNIanToOC3+Xsg4sSPTpuKOh/ex0cvMDkc8uqh+dXXKm66sf5HwSK/3IDonNDBaQ11KN4FQZWSbqNXtrh+p3U3biAye02D+42blfJj6XHzZXtF49FHK5MpzGaV1TyuulqJ5lWrCsG1ihHPPyyLwuxKaJpAqNF0srhMJ4jbnYVm/RoUgVgA3YJl20EbqgMtMGNsm1ErxvJBVZ7VHIlX0iW/1EpphGmu6wNa2M1r62ukKA2LzaCzcXYRRt0KnAswWXZoG1JJiNesOrL1uFeD6Fkv22G/8uBVdvOu6jTwWbPBfSMTg+UTgq4Lk6isuCJ7Fz+GkH/PI6PwbN7EAC+RaZiDMfIVRLCy2kEoFWumSukxn5UCgc1upxKJpe6cBdGoNYwO267SKFpvig/ELnHeMMHybAG23tfEp3Q0EOivAoGDKPgQvYC2Ko4XwtOz7CjmpAlhPAc6rSqDaQXkrgZdRqTHUC1XtYYmMIpEd4GRfL7gjDiZjdzz9Y64Gv+Vq+NZUDXtUuf82VdezmTca/i2qNl2aTsnc6LLIjmDO9U5PHXP/v1SFumeYqjDvkqq8XarCHlHISRXQvzVcdtHdyjirVIX17xWXVOUJqs4nVWGX+8AxzJ1FqtK/H5A5I5MZGY/I3Cf+hPiIDMmUEb+/HDEq0CUQjxl9Lx6cbweOPK5kjETMQlEekAiUMZYhVxNbkSJVlToOSaL6niWi5kR9/XRmF3SbzvgHshn2Olyh2X5dq+r2PmDS+S8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-16T00:52:25.874Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="NmTKBSEO69sAG-wACN0k" version="14.4.8" type="github">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="575" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="300" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EZGv0IB8aeOy-3g7Jiih-21556" value="字节流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" parent="1" vertex="1">
+          <mxGeometry x="240" y="80" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aMB2SkQLuwcF9kNnRCJI-1" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;消息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fontSize=30;strokeColor=#67AB9F;fillColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="255" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aMB2SkQLuwcF9kNnRCJI-2" value="&lt;font style=&quot;font-size: 30px&quot;&gt;头标志&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#FDD276;strokeColor=#FDD276;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="380" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aMB2SkQLuwcF9kNnRCJI-3" value="&lt;font style=&quot;font-size: 30px&quot;&gt;尾标志&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#F19C99;strokeColor=#F19C99;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
