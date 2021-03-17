@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T23:44:06.907Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="xYO2pr1jLlA_QtvdKgQV" version="14.4.8" type="github"><diagram id="9fnjXT7nlAm7Ix4f8WDv" name="Page-1">3Zltb5swEMc/zb2sBBiM/RIIdNM2aVKrre8mFEigInFGyZLu0+9sDIEkfZhWSJkUkeN/xib++eyzAyRY7a/LeJN9EUlagGUkeyAzsCxiUbxK4bEWbO7UwrLMk1oyD8JN/jvVoqHVbZ6kD72ClRBFlW/64lys1+m86mlxWYpdv9hCFP1WN/EyPRFu5nFxqn7PkyqrVccwDvqHNF9m1ZFjFTdltfCQxYnYdSQSAglKIaraWu2DtJBd13RL/Vz0hLd9rzJdV6954Gq/+LGNtvxTcLeg9/M78e3+9krX8isutvr3gkULrM9fCKwW37p61D1Bf25F47h6UJw8LGCRDaL2D360lvLbhtAGfwZsBqELjANjEFLgAXhB0wi+bd1O/YjuqLZJqxTbdZLKH2Cie5flVXqziefSu8PRhlpWrQrtljXp8WMReZ8XRSAKUaq6CJ35jsfaVrod1/RCWlbpviPpjrxOxSqtykcsor0N02ZM69vdYYCYTZGsMzio1mI9JpdtxQduaGh0f4GR/DtGAzE+y5CDh/SoNBgB7Ek0MJb9CEK8etI7caqm/c6w2sNFJ+uQVUEpDQcYcjRlvPom+L5UeAjMnzrZFtHTZFttFLLOcGRN2kPLDAVynFjtE4xMHnB+hvQbEG3X2aeJ2mxMonQ0op4BzIWQgRcBu8ik6/PQ8JxBllLTuDRId0CQ5CQnctWsawKLpOK5MlgnTtThLyMlfEykbDik5FxoqpmWu5MHabwMclSOfJx8yAVuA1drpTcDXm9bMDJV7isNTIsj8DFnYre3nxubTz5JOqJNL50kNUcAQ/N25FVOwLikhvIzdZD03ZEc8Jyhlx2dblLVpCz3NOjygAVqT2NJY+KUT2bnM5THzZxMa8B11uottLiH4cbHrwpmAL6hjJnc7Ex8zT2ahNv77pJLR4X6BmdLr4KKq64vJ19pYKDa74XugEusxS5Od8AjJjUJGzIxknOvCT5v0yaVWlFglkqtQklZn0Lxi6ZTA0YyOXNCMTLrAQ+dFD5HhSqV0fwfJFHH50vD4cPbw99Aytf5K42EfwA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-17T23:47:46.678Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="QHP8DD1yGQimD4nSmvsZ" version="14.4.8" type="github">
+  <diagram id="9fnjXT7nlAm7Ix4f8WDv" name="Page-1">
+    <mxGraphModel dx="785" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="250" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-xf_uFu9KCXf6jcXoVjT-4" value="&lt;font style=&quot;font-size: 23px&quot;&gt;16位源端口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#6DB5A8;" parent="1" vertex="1">
+          <mxGeometry x="20" y="40" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-xf_uFu9KCXf6jcXoVjT-5" value="&lt;font style=&quot;font-size: 23px&quot;&gt;16位目的端口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#6DB5A8;" parent="1" vertex="1">
+          <mxGeometry x="500" y="40" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-xf_uFu9KCXf6jcXoVjT-6" value="&lt;font style=&quot;font-size: 23px&quot;&gt;16位UDP长度&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#F19C99;" parent="1" vertex="1">
+          <mxGeometry x="20" y="100" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-xf_uFu9KCXf6jcXoVjT-7" value="&lt;font style=&quot;font-size: 23px&quot;&gt;16位UDP校验和&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#B9E0A5;" parent="1" vertex="1">
+          <mxGeometry x="500" y="100" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-xf_uFu9KCXf6jcXoVjT-15" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#6DB5A8;" parent="1" vertex="1">
+          <mxGeometry x="20" y="160" width="960" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
