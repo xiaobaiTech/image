@@ -1,50 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T23:42:28.971Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="ZcydP9hFtgG01OxfyGfq" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-18T00:57:15.252Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="X4miGZMO9v-XagdLx8Pe" version="14.4.8" type="github">
   <diagram id="9fnjXT7nlAm7Ix4f8WDv" name="Page-1">
-    <mxGraphModel dx="1267" dy="1840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="500" math="0" shadow="0">
+    <mxGraphModel dx="760" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-xf_uFu9KCXf6jcXoVjT-1" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;4位版本&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#6DB5A8;" vertex="1" parent="1">
-          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-xf_uFu9KCXf6jcXoVjT-3" value="&lt;font style=&quot;font-size: 20px&quot;&gt;4位首部长度&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#6DB5A8;" vertex="1" parent="1">
-          <mxGeometry x="140" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-xf_uFu9KCXf6jcXoVjT-4" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;8位服务类型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#6DB5A8;" vertex="1" parent="1">
-          <mxGeometry x="260" y="40" width="240" height="60" as="geometry" />
+          <mxGeometry x="310" y="50" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-xf_uFu9KCXf6jcXoVjT-5" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;16位总长度&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="500" y="40" width="480" height="60" as="geometry" />
+          <mxGeometry x="550" y="50" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-xf_uFu9KCXf6jcXoVjT-6" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;16位标识&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="20" y="100" width="480" height="60" as="geometry" />
+          <mxGeometry x="70" y="110" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-xf_uFu9KCXf6jcXoVjT-7" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;13位片偏移&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="590" y="100" width="390" height="60" as="geometry" />
+          <mxGeometry x="640" y="110" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-xf_uFu9KCXf6jcXoVjT-8" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;3位标志&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="500" y="100" width="90" height="60" as="geometry" />
+          <mxGeometry x="550" y="110" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-xf_uFu9KCXf6jcXoVjT-9" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;8位生存时间（TTL）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#6DB5A8;" vertex="1" parent="1">
-          <mxGeometry x="20" y="160" width="240" height="60" as="geometry" />
+          <mxGeometry x="70" y="170" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-xf_uFu9KCXf6jcXoVjT-10" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;8位协议&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#6DB5A8;" vertex="1" parent="1">
-          <mxGeometry x="260" y="160" width="240" height="60" as="geometry" />
+          <mxGeometry x="310" y="170" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-xf_uFu9KCXf6jcXoVjT-11" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;16位首部校验和&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#6DB5A8;" vertex="1" parent="1">
-          <mxGeometry x="500" y="160" width="480" height="60" as="geometry" />
+          <mxGeometry x="550" y="170" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-xf_uFu9KCXf6jcXoVjT-12" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;32位源IP地址&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="20" y="220" width="960" height="60" as="geometry" />
+          <mxGeometry x="70" y="230" width="960" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-xf_uFu9KCXf6jcXoVjT-13" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;32位目的IP地址&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#6DB5A8;" vertex="1" parent="1">
-          <mxGeometry x="20" y="280" width="960" height="60" as="geometry" />
+          <mxGeometry x="70" y="290" width="960" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-xf_uFu9KCXf6jcXoVjT-14" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;选项（如果有）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="20" y="340" width="960" height="60" as="geometry" />
+        <mxCell id="-xf_uFu9KCXf6jcXoVjT-14" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;选项（如果有）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="960" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-xf_uFu9KCXf6jcXoVjT-15" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#6DB5A8;" vertex="1" parent="1">
-          <mxGeometry x="20" y="400" width="960" height="60" as="geometry" />
+        <mxCell id="-xf_uFu9KCXf6jcXoVjT-15" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#FDD276;" vertex="1" parent="1">
+          <mxGeometry x="70" y="410" width="960" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-xf_uFu9KCXf6jcXoVjT-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#000000;fillColor=#FDD276;gradientColor=none;fontSize=23;direction=west;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="50" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-xf_uFu9KCXf6jcXoVjT-18" value="&lt;font style=&quot;font-size: 30px&quot;&gt;IP&lt;br&gt;Header&lt;br&gt;20字节&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="1099" y="220" width="91" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
