@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T06:30:12.906Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="iDMqOK2IXweKTgzGvrv-" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-18T06:51:50.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Mv1lB3AsyJsuV8B6Vf2p" version="16.5.6" type="github">
   <diagram id="IemuaXq5Jafa3FOG4-sM" name="Page-1">
-    <mxGraphModel dx="2598" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="700" math="0" shadow="0">
+    <mxGraphModel dx="2598" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="tTjFp03oNRJifSqOgnXA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="_qIB2CW_H26AFUyjVN2s-6" source="_qIB2CW_H26AFUyjVN2s-12" target="tTjFp03oNRJifSqOgnXA-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_qIB2CW_H26AFUyjVN2s-12" value="/upload" style="rounded=0;whiteSpace=wrap;html=1;" parent="_qIB2CW_H26AFUyjVN2s-6" vertex="1">
+        <mxCell id="_qIB2CW_H26AFUyjVN2s-12" value="/change_nick_name" style="rounded=0;whiteSpace=wrap;html=1;" parent="_qIB2CW_H26AFUyjVN2s-6" vertex="1">
           <mxGeometry x="50" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tTjFp03oNRJifSqOgnXA-1" value="valid token?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="_qIB2CW_H26AFUyjVN2s-6">
@@ -46,13 +46,13 @@
         <mxCell id="_qIB2CW_H26AFUyjVN2s-9" value="mysql" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="-255" y="40" width="205" height="620" as="geometry" />
         </mxCell>
-        <mxCell id="_qIB2CW_H26AFUyjVN2s-32" value="update user pic name" style="rounded=0;whiteSpace=wrap;html=1;" parent="_qIB2CW_H26AFUyjVN2s-9" vertex="1">
+        <mxCell id="_qIB2CW_H26AFUyjVN2s-32" value="update user nick_name" style="rounded=0;whiteSpace=wrap;html=1;" parent="_qIB2CW_H26AFUyjVN2s-9" vertex="1">
           <mxGeometry x="41.25" y="280" width="122.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_qIB2CW_H26AFUyjVN2s-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_qIB2CW_H26AFUyjVN2s-11" target="_qIB2CW_H26AFUyjVN2s-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_qIB2CW_H26AFUyjVN2s-16" value="image + token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_qIB2CW_H26AFUyjVN2s-13" vertex="1" connectable="0">
+        <mxCell id="_qIB2CW_H26AFUyjVN2s-16" value="nickname &lt;br&gt;+ token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_qIB2CW_H26AFUyjVN2s-13" vertex="1" connectable="0">
           <mxGeometry x="-0.4057" y="-1" relative="1" as="geometry">
             <mxPoint x="19" y="-1" as="offset" />
           </mxGeometry>
