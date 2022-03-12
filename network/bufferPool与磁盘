@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T00:58:07.643Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="k06mXJApMiNAU5mrV-Pn" version="16.6.7" type="github"><diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">7Zhfb7s2FIY/DZdBgPl7GZqk07ZOlXqx7WpywAErDmbgJHSffnawAQfS5NdFXSuVG8xrY+NzHp9jY4CHXfNYwTJ/oikihmOljQEWhuPYFgj5TSivreJYUStkFU5byeqFF/wPUm9KdY9TVEutlRilhOFSFxNaFChhmgarih71ZhtKUk0oYYZGwksCyVj9Hacsb1XPsnr9J4SzXI4MPFmxhsk2q+i+kMMZDliuVvYKtNU7qLqS7escpvQ4kMDSAA8Vpawt7ZoHRIRpdautLtR2n12hgt3yggPwU/RYej9jf4bdbFU+r9nMlr46QLJHah6nr2WvykCnOSLRi22A+Jhjhl5KmIjaI0eCaznbEVm9wYQ8UEIr/lzQgjeKa1bRLVIiN5M7j+wo7mqU1blF4vGk5DwPqGKoGUhyko+I7hCrXnkTWQtCM9KutgNJJ/Dl87H3tevYpiPlfOBq2w3MwJOkScqybrze1Lwgrf0Dlne8Ccv7hAkbUj557gK1VPy/9wKS2O6Lp/WgDNqLwIXctOuh5Gfyfup6rblWtRIDztrh5ryBHZbNuIv1frNBlfAOX52qPz719fkYXGtnoOQznrgfmQ6NTojEZoIkSHBW8MeE08E/BcSCCsyX8lxW7HCaimEmKe05tu5DmuubvqfTFbimiocDwGwrML0xX8Ax70BXFv1y/POAyG9JM0N/xFbz9Ihn9jW4JunZnC6Nsuuw+FOw2P523TFXdSgsfSPyjNgShXBhzJfGMjLmthF7t8JzJfzAumxzxAY3wtWxHryugjaMThdwmIDmIiGefU6Iq9LeAI/QGrOhtLuT4VwP+DxTlaK4IaiZiwzLjYGKVBYXCYF1jZOTOWHFxvLAH/qaE56VGwDbl88Dy69O141uWi0WTuB3bkLpKMtfdZK2Qid80IkVIpDhgz7AlGfkGM8UnxaZwgYEIwzcyAwivaOa7qsEyXeHifysO8caxZ2p7rhvMsRG3Z2g6Yzwfo7Ad4T5DBGG77ZHMFihqXYX/1eUcb+jzEdHGSfy7hllgO9+gihzdZP8HWU+IsoAf5zBPkGUCS7SUZeweP9RZ3Ba0oW3oLt49FoGxhwYoS0K3CFReJGRN89U7ZS+wJnqP5Fm8yimn9h9f7xj/vgDVfgFEtql3DWJwhdIaDzdOHrQ8QLwzj3zuC838j80lamD35sIbRFLcun2UnwJqpYH7pBarWr1E1E0SGGdd5D8yNIfZgcC14g80xozTCfjwK9nDdaUMbqbCBSMiohA94zggo+u/tZaU0FGrZVdk4m/yibdbHCCzBQd+K02c1ilf6W43o4y361r4R5ba8cyQWT1l33G4vhHjxeanjNeEeebphuiEn/sfw23CPa/38HyXw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-12T15:02:39.808Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="1LSV3taMrc315qQth9hC" version="16.6.7" type="github">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="1298" dy="349" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="350" background="#EFF1F3" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="23iM9Gp5Ji6-i4gFpPbt-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4A919B;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="38.99999999999999" y="369" width="421.29" height="147.75" as="geometry" />
+        </mxCell>
+        <mxCell id="23iM9Gp5Ji6-i4gFpPbt-25" value="&lt;font size=&quot;1&quot; color=&quot;#4a919b&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;buffer pool&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="46.65" y="374.38" width="107.5" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="g9KwYvelNcx-eXB0xMGi-1" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px&quot;&gt;16kb&lt;br&gt;数据页&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=none;fillColor=#4A919B;" parent="1" vertex="1">
+          <mxGeometry x="51.65" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g9KwYvelNcx-eXB0xMGi-2" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=16;fontColor=#FFFFFF;strokeColor=none;fillColor=#FDD276;" parent="1" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="137.65" y="449.79" as="sourcePoint" />
+            <mxPoint x="206.65" y="449.79" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g9KwYvelNcx-eXB0xMGi-3" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px&quot;&gt;16kb&lt;br&gt;数据页&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=none;fillColor=#4A919B;" parent="1" vertex="1">
+          <mxGeometry x="209.65" y="408.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g9KwYvelNcx-eXB0xMGi-4" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=16;fontColor=#FFFFFF;strokeColor=none;fillColor=#FDD276;" parent="1" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="295.65" y="449.79" as="sourcePoint" />
+            <mxPoint x="364.65" y="449.79" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g9KwYvelNcx-eXB0xMGi-5" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px&quot;&gt;16kb&lt;br&gt;数据页&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=none;fillColor=#4A919B;" parent="1" vertex="1">
+          <mxGeometry x="367.65" y="408.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g9KwYvelNcx-eXB0xMGi-7" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#4a919b&quot;&gt;磁盘&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="195.9" y="660" width="107.5" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="g9KwYvelNcx-eXB0xMGi-8" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=16;fontColor=#FFFFFF;fillColor=#FDD276;strokeColor=none;" parent="1" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="249.25" y="573" as="sourcePoint" />
+            <mxPoint x="249.25" y="496" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g9KwYvelNcx-eXB0xMGi-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4A919B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;rounded=1;fontSize=16;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="220.39000000000001" y="578" width="58.52" height="79" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
