@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T01:42:38.540Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="jLYmtTE92i6L_gIV3KiJ" version="16.6.7" type="github"><diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">5VpRj6M2EP41lu4eIgEGYj8Cgd3q7tqqW921Tyc2OEADOAfkku2vr8eYhCysbqM2gU2zK8UZG4O/+b5hxoCwl+/vynCTfOIRy5ChRXuEF8gwdN0i4gssT43FmuuNIS7TqDFpR8ND+jdTR7bWbRqxStkaU815VqebU+OSFwVb1ie2sCz57nTYimfRiWETxqxneFiGWd/6JY3qRK0Ca0f7PUvjRJ15rqmOx3C5jku+LdTpkIH9INAD3HTnYTuVGl8lYcR3HRP2EfZKzuumle89lgG0p6gFL/QeLrtkRf2aA365c//ar7/u71ehr/ub7GOw/TAz1NV+D7OtwuORxWmBsKuuun5qgZJrZTCbJrp3SVqzh024hN6doIawJXWeiV+6aK7SLPN4xkt5LPbkR9jjMoxSccVtX8ELBsN5UStqGObh5N3FqfV+Z2XN9h2TWuwd4zmryycxpO211CGKl0RTRN0dvYyJck7S8bCtbKEiVnyY+oiuaCiAzwGb9sBGhp3Vav2S4y1i9rctEEMAgVfy0zV1vNIaYYJZJRF0xADD3Ozl0ONBdiy//TlyHeQG0HAIIq7eXoNYU3MZauR/6X8LWz7RRvX/3Lyi/30rKGdPBQl++vzbhz9pvFivshmZovuNG3W/hafm/r76byXUPsf6qqF2EOs2uXhZaz/WkCY01BNQxTJIQgxtW7ESVpiwkgF+iUD3a8EBVZmFQOd2E4U1azQL64F/DfkmcoXyFsi3kLNAlECDeiBHP0Cuh4h3sBymNbR3AmMPv5czWIg4yBENiqgQtCkbDqJUNkxErhLUAwJ/497U7dGZpg8w7W2D3JPz+CAblwV5AukpNUYHuV8LTCNmQkwjyHVlwNQR9WXyskCEgsX1EbGuEe4mcGOdAEnMHknSQri1de+7rlPf3+Adh5LRXWDd/B1nAiDbPZCXPM/TW4gqzymta6PXRvr85m7wzzk9BZSHdiDeduTocVkfv/Z8eZuv2oTFtPMo2B9yEcXItxEVxWnQqUkJ7BuJ6hKKU1cebkOVCoeLhphBg4YobB2/k481a76N8rOn6fHZZgztdLztyNnX9OgFqDFU5Z9XG+l0SNNyL4cgx5QaskGOrapOZC10SR1EzAGp+fKnq3c2lmwQpTMHyQqhE0+l6DBATGL/T6qlKfDmwhsXU7jjGqMXpQNPMS+TrE/hlnNVuDml63mV33/+tTI+8vSPT19+/n3272PhcH4DcUvEPxULRSJiy0SnCWKwO04RmavdcRIgx+kkIE3o01Ta4uivDZ6TjYQ9hgzw6AyNXrOgHiTNhQPhCCD3lTk6yD/cwR18wsxC+9G2z3vCrNtDCoZXdqBX6tFFjtUK06m+ZVK/GLlNhiNEHcheTwq5GY9lRaKd8fxKuK8+JUZVl3zNnru/wxZlCrM0LsTPjK1gBqBCugwzR5nzNIrgJIM8PGVql1vahQSMLdzjltE+e+py6/Bq1Ou5JX4eX0OSfZ1XvbD/Dw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-12T01:43:56.599Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="6QQOeCABoBpghWBSZJzR" version="16.6.7" type="github">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="1062" dy="465" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="530" pageHeight="700" background="#EFF1F3" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OGBjxk_xHfaE1EplLFuK-23" value="begin;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="151" y="808" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OGBjxk_xHfaE1EplLFuK-29" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;线程1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#535E80;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="151" y="748" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-8" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;线程2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#535E80;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="531" y="748" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-9" value="begin;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="531" y="808" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-10" value="&lt;font style=&quot;font-size: 20px&quot;&gt;select user where phone_no=2 for update; // 不存在，在phone_no (1,3) 加间隙锁&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F8F8;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="151" y="868" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F8F8;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="531" y="868" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="151" y="928" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-13" value="&lt;font style=&quot;font-size: 20px&quot;&gt;select user where phone_no=2 for update; //阻塞等待&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="531" y="928" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-14" value="insert user(phone_no=2);" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F8F8;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="151" y="988" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F8F8;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="531" y="988" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-16" value="commit;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="151" y="1048" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="531" y="1048" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F8F8;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="151" y="1108" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-19" value="&lt;span style=&quot;font-size: 20px&quot;&gt;select user where phone_no=2 for update; //阻塞等待结束，返回有数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F8F8;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="531" y="1108" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="151" y="1168" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-21" value="&lt;font style=&quot;font-size: 19px&quot;&gt;判断有phone_no=2的数据就不执行insert了&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="531" y="1168" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F8F8;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="151" y="1228" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-23" value="commit;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F8F8;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="531" y="1228" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o99k7smHVPs2LoiXMWNT-1" value="&lt;font style=&quot;font-size: 20px&quot;&gt;此时user表里只有一条phone_no=2的数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="151" y="1288" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o99k7smHVPs2LoiXMWNT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="531" y="1288" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o99k7smHVPs2LoiXMWNT-3" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 16px&quot;&gt;ps: 以上sql都是伪代码&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="151" y="1353" width="211" height="21" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
