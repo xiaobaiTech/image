@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T15:57:15.839Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="sMYw8oel6PYb7Bz-METL" version="17.1.2" type="github"><diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">5VdNj5swEP01PmaF7YTAEUjSHtpeoqrq3hxwAK3BFMyG9Nd3jB0SwkZqq1Rb7Z4Yv/nwMO+NQhCNiu5Dzarss0y4QMRJOkRXiBBMfA8eGjkaxPV9A6R1nhjIOQPb/Ce3mSe0zRPeWMxASkqh8moMxrIseaxGGKtreRiH7aVIRkDFUj4BtjETU/RbnqjMoHPHOeMfeZ5m9mZycuxY/JTWsi3tdYjQ9WaDN9S4C3YqZeObjCXycAHRNaJRLaUyVtFFXOjRjqe2ueEd2q55qX4nQbZfv3955Mu0fPRm+09NXR3xzFZ5ZqLlp9dwBdQL9xLK6qkLWfce90erWw3hPefMx/7uEnIadbQDPYG6wKzp6Q4gAC+q7jLDTfUzU0rTHOi2yabLmdwxkMOuTR+UrHrUZUUFkeWuqUyiMAU2pkNTx8EPmSqEnfTQC1G8M9eAj64wmI2q5ROP7GuVsuS611yIK4iJPC3hGMN4OeDhM69VDrIJrKPIk0RfEx6yXPFtxWJ95wGWBLBeF1xP3rGjsMLHi775fuhQkHc32cSDRmD1uCy4qo8QYhP8hckYls4cD2cFE2wXM7tQL7ViZHZp0qHwWTlgWPH8gZDIWxESed9C8l9bSPStCIm+byHBh8ErK2n+gpKuyDgPBd8Y2wVPCWuyIfZ6gPocDcqk8wD0GE7ITfietUbMU35N6OkbhNyHFW85/p1wJqTg5WJKCna8f8TKYsrKeoHCEIUBWi9ROEeBQSIEigLDd5C31obnI2/Vx0TIc3ok6rPA8JDn9lkBCnojgDrgmqNwpdP/zy38K0XdQRQYuyNVEPqCKty7rCocz5+4ve/ibwRd/wI=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-19T15:58:08.925Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="1Cn0K1pI8sI2-facMx3X" version="17.1.2" type="github">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="1527" dy="822" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="200" background="#EFF1F3" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ouUYNZe7gnZ8-fLsrpy1-1" value="&lt;font color=&quot;#4a919b&quot; style=&quot;font-size: 15px&quot;&gt;https://xiaobaidebug.top/&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#535e80&quot;&gt;01.html&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="95" y="69" width="218" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ouUYNZe7gnZ8-fLsrpy1-2" value="&lt;font color=&quot;#4a919b&quot; style=&quot;font-size: 15px&quot;&gt;https://xiaobaidebug.top/&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#535e80&quot;&gt;02.html&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="95" y="99" width="218" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ouUYNZe7gnZ8-fLsrpy1-3" value="&lt;font color=&quot;#4a919b&quot; style=&quot;font-size: 15px&quot;&gt;https://xiaobaidebug.top/&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#535e80&quot;&gt;03.html&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="95" y="129" width="218" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ouUYNZe7gnZ8-fLsrpy1-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fontColor=#4A919B;strokeColor=default;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="87" y="60" width="175" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="ouUYNZe7gnZ8-fLsrpy1-5" value="建索引后前缀区分度太低" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#4A919B;" parent="1" vertex="1">
+          <mxGeometry x="116" y="23" width="176" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
