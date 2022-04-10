@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T01:48:32.612Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Z5TcC9B6k9aU8-mW_LEp" version="16.6.7" type="github"><diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">3Vldb5swFP01lraHSGAHAo9AoJ3abtM6tdtTRYIDLAanQJp0v37XxiSkpGsrrQlLEqXm+Prr3OvjWwcRL1ufFeEiueIRZQhr0RqRMcLYtjT4FsBjDegjowbiIo1qSNsC1+lvquwadJlGtFRYDVWcsypd7IJTnud0Wu1gYVHw1a7ZjLNoB1iEMe0A19OQddHbNKqSGjWItsXPaRonauShoSom4XQeF3yZq+EQJn4Q6AGpq7Ow6UrZl0kY8VULIj4iXsF5VZeytUeZYHaXteCZ2s20C5pXr2nw5cz9tZ7frc9noa/7C3YZLC8GWM32IWRLxceExmmOiKtmXT02RMm1UtGbBtWrJK3o9SKcitoVRAZgSZUxeNKhOEsZ8zjjhWxLPPkCPC7CKIUZN3U5z6kw53mlQgMPN4O3F6fW+0CLiq5bkFrsGeUZrYpHMGlqDVw3UXFp26qL1dbLpAnepOVhU2GhCqx40/WWXSgogt9Ctt0hG2GTVWr9MsYbxsz7pQgMIILM5KsNtbzSgKKDQSkZdMAADxdrabptZMbyrz9CroPcQBQcC1mu3swB1lRPQ1n+S/8bxPAt7bj+Jwf0v28ExeAxt4JPN98uftrxeD5jA6uP7scn6n6D9M393d1/KlLb4fqQUruX6ya5eH6vvbyHMOyhzgYqKRNJCNaWJS3EChNaUMFfAuze5VxMLIevD8CAp2sf6w0rFiM+GvJNZAfIMZBvIMtCroYlNEaOLgsGQKJgAeJDF5t+ha+hjY2R5ZFD7NnAEu+jSrauGUcPJH1PIP3fLD/drX1gGb8vyz1IP3VdPzrL3WT/zaKo7RPFNAcxrNoqCDw2ylcPMCm2IrXRQpBAHVkj5FtC7FxfCB8kJEIKbWRDpjKUBQfZtiwMhb0fINcDERSIBcZENLcIcsdSNy1k1z07QmgPoJM9OG/7EFvDZ2OrXIR5jw5c8tcDdxMv9axP9FzVR0ePF+P0z9UesGx2WJ7yLEtPQQQ7QY2P/h+ePnpBBGs5abng/eWmD8fTQT3DbXs+KrPzm68lvuTpj6vbz98HL2Y+e69eaGhOTPNtVy+6ue8UE3fZjjyOhsh15XEEBchbnPKeyUymSWBsyIUCWeshx2nsibyv0UT+88qUBnxV7QZGWRV8Tp+6vxUtCgpZGufwyOhM9CD8nk5D5ig4S6NIDLI3DncjtR1b2nvt+j13DbhJh9qxtfnN4PWxBY/b+3lZ1/oJhPh/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-10T02:12:54.623Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="19Uzj8tAfIvfZnkMlXXx" version="17.4.0" type="github">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="998" dy="-120" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="530" pageHeight="450" background="#EFF1F3" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OGBjxk_xHfaE1EplLFuK-23" value="begin;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="152" y="991" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OGBjxk_xHfaE1EplLFuK-29" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;线程1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#535E80;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="152" y="931" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-8" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;线程2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#535E80;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="532" y="931" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="532" y="991" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-10" value="&lt;font style=&quot;font-size: 19px&quot;&gt;select user where phone_no &amp;gt;=1 for update; // 查到2条数据,phone_no=1和3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F8F8;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="152" y="1051" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F8F8;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="532" y="1051" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="152" y="1111" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-13" value="&lt;font style=&quot;font-size: 20px&quot;&gt;insert phone_no=2; &lt;br&gt;// 假设没间隙锁，那能成功&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="532" y="1111" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-14" value="&lt;span style=&quot;font-size: 19px&quot;&gt;select user where phone_no &amp;gt;=1 for update; // 查到3条数据,phone_no=1,2,3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F8F8;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="152" y="1171" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F8F8;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="532" y="1171" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-16" value="commit;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="152" y="1231" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="532" y="1231" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o99k7smHVPs2LoiXMWNT-3" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 16px&quot;&gt;ps: 以上sql都是伪代码&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="152" y="1291" width="211" height="21" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
