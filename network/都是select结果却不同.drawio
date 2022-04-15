@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T00:00:26.328Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="rhTHJL6dtun8Kk4cy1tv" version="17.4.2" type="github"><diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">7Vprc6M2FP01zGw7wwyg4OCPsQPe7vY1zbQ7u186shGgRCAq5ATvr6+EhI0NieNuY1gPJGPD0fvec6+OAQPM03LBYJ78QkNEDMcKSwPcGo5j285UfElkoxDgAgXEDIcKsnbAHf6KdMsaXeMQFRpTEKeUcJzvgyuaZWjF9zDIGH3arxZREu4BOYxRC7hbQdJGP+GQJwp1gbXD3yMcJ3rkK1evdwlXDzGj60wPZzjADwI70KtPYd2V7qhIYEifGhDwDTBnlHJ1lpZzRKRp960WPFO6nTZDGX9Ng98Ws/vy4e/yfQR928/Jz8H6o+no2T5Cstb2WKIYZwaY6VnzTW2oaq1I9maJ4qcEc3SXw5UsfRLUEFjCUyKubHEaYULmlFBWtQXz6hB4zGCIxYzrsoxmSFanGdfUcK62gzcXp9f7iBhHZQPSi10gmiLONqJKXeo6qonm5XTqquunnZeBp52TNDw80RjUxIq3Xe+sK060gU8x9rRlbMOZEK7XX3G8ttjkn7UkhjAEiKqjCTW8UoOyA7OoLHgjKjhXeVlV3TWaxNW3f23MboxZIE9uPMOb2fUcxJrUNHTN/9P/LnB9z+rX/+CM/vfdgJmbzAt++uuPj5+n8e1DRExviO53LtT9Lhia+7ui//tOsS0bnzPFdtq4FhXPx9jR2LGnInbagaN7KXKYyUglsCj2eklDMycQy0JxikpRLzwStEtaynFxFquRl5SFiJkCFheqkc4IspTFy3euLUscYRtr7/SHbYNqMRFMMdmoZmI4mOYqlQDpd5ojOckCZkWrbNtlq2RFEGSnN0sQeUQcr6AozJBwyX9q+uo2kGFITqhfoJiKOVlrLD5QSu/x843lys0CMRxtjS3ChJuQ4DhTtiYo4m3qFIhI3Sqduc74ux+lsyJGUzmu6E+GS4KYnIZUqvX42bLIG7wT0aCoN9JxpOM30XHbpbqSDLBA3bMl06/8twzfM2a+MQWG7xqeVA32ES6+pYAIPPnXq360Lbf33c3u2N2+bysfSoghWNm5OKHW4rJt927l9p2HU5WaY3cptXUeQo52m2uBuN5awS1obLZidjJxyvTnnCmLDUCiD8HzV6NGH0XRsERRzxp9pOBIwed1uaLRkrVqbvnX1OyBMfUMfyI/b4JRxbeUz3Xv+597+Sp+AFaejCpjTPHDSvGnqoyeVcXIoMExyHjFA0N1vCAwdrK1Q3BUK+tWAh065BVPL7snE1HJAP1b/QX10XcMjGn3IoLmgPgv3eZ2jpDuwm4QtQSy0/uDcvv64m7AtgTyWa08X/z+EP+6+GR++bBMy/s/k/v1B7PrWYJieIgfO9PlaVuUTs7fqLJP2+isSFFgh+0l23m1WTTz6Lyy9mGKPEDlpU5sVR7qyFmH+elwOSuapvjFLHIs51ROGcxv8hbzO+LjhJRzzvdGOoPhjR/59GDkdsZ5QyOLy92LrFVZ42Vh4P8L</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-15T00:01:24.334Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="k-yeoJj4f2wOIocd4AwJ" version="17.4.2" type="github">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="1035" dy="147" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="530" pageHeight="509" background="#EFF1F3" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OGBjxk_xHfaE1EplLFuK-23" value="begin;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="154" y="1125" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OGBjxk_xHfaE1EplLFuK-29" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;线程1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#535E80;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="154" y="1065" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-8" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;线程2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#535E80;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="534" y="1065" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="534" y="1125" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-10" value="&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;span class=&quot;md-plain md-expand&quot; style=&quot;box-sizing: border-box ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , sans-serif ; text-align: left&quot;&gt;select count(*) from user where age&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;md-plain md-expand&quot; style=&quot;box-sizing: border-box ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , sans-serif ; text-align: left&quot;&gt;&amp;gt;= 3;  // 输出1&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F8F8;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="154" y="1185" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F8F8;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="534" y="1185" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="154" y="1245" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-13" value="&lt;font style=&quot;font-size: 21px&quot;&gt;update user set age=3 where id = 2;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="534" y="1245" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-14" value="&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;span class=&quot;md-plain md-expand&quot; style=&quot;box-sizing: border-box ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , sans-serif ; text-align: left&quot;&gt;select count(*) from user where age&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;md-plain&quot; style=&quot;box-sizing: border-box ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , sans-serif ; text-align: left&quot;&gt;&amp;gt;= 3;&lt;br&gt;&amp;nbsp;// 还是输出1&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F8F8;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="154" y="1305" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F8F8;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="534" y="1305" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-16" value="&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;span class=&quot;md-plain md-expand&quot; style=&quot;box-sizing: border-box ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , sans-serif ; text-align: left&quot;&gt;select count(*) from user where age&lt;/span&gt;&lt;span class=&quot;md-plain&quot; style=&quot;box-sizing: border-box ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;&amp;nbsp;&amp;gt;= 3 &lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;for update;&lt;/font&gt;&lt;/span&gt;&lt;span class=&quot;md-plain&quot; style=&quot;box-sizing: border-box ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , sans-serif ; text-align: left&quot;&gt;&amp;nbsp; // 输出2&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="154" y="1365" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Fr-yn8FIVRKY9gDkfl-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="534" y="1365" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CGPkgNGW-ZJbmxjUhjuJ-1" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 19px&quot;&gt;&lt;font color=&quot;#333333&quot; face=&quot;open sans, clear sans, helvetica neue, helvetica, arial, segoe ui emoji, sans-serif&quot;&gt;commit;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F8F8;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="154" y="1425" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CGPkgNGW-ZJbmxjUhjuJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F8F8;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="534" y="1425" width="380" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
