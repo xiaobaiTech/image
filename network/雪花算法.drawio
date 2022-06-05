@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T11:27:38.341Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="TOweqsnPWpJxluqwIR7j" version="18.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-05T11:28:46.996Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="QDNQ-yoPgtn2nc1w4xPZ" version="18.2.1" type="github">
   <diagram id="jk84KoCiqGRbvonOO5nR" name="Page-1">
-    <mxGraphModel dx="837" dy="451" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="550" pageHeight="190" background="#EFF1F3" math="0" shadow="0">
+    <mxGraphModel dx="171" dy="237" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="550" pageHeight="190" background="#EFF1F3" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="190.88" y="-69" width="20" height="286" as="geometry" />
         </mxCell>
         <mxCell id="TQc7ubPpzNLARLeVcl0p-6" value="&lt;font color=&quot;#4a919b&quot;&gt;41位 时间戳&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=2;fontColor=#C89932;" parent="1" vertex="1">
-          <mxGeometry x="157.38" y="31" width="89" height="30" as="geometry" />
+          <mxGeometry x="156.38" y="31" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TQc7ubPpzNLARLeVcl0p-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontSize=2;fontColor=#4A919B;strokeColor=#C89932;strokeWidth=2;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="39.88" y="104" width="12" height="12" as="geometry" />
@@ -23,16 +23,16 @@
           <mxGeometry x="15.879999999999999" y="116" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TQc7ubPpzNLARLeVcl0p-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontSize=2;fontColor=#4A919B;strokeColor=#F19C99;strokeWidth=2;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="379.38" y="75.5" width="12" height="69" as="geometry" />
+          <mxGeometry x="385" y="75.5" width="12" height="69" as="geometry" />
         </mxCell>
         <mxCell id="TQc7ubPpzNLARLeVcl0p-10" value="&lt;font color=&quot;#f19c99&quot;&gt;10位 工作机器id&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=2;fontColor=#C89932;" parent="1" vertex="1">
-          <mxGeometry x="337.38" y="116" width="96" height="30" as="geometry" />
+          <mxGeometry x="343" y="116" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TQc7ubPpzNLARLeVcl0p-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontColor=#C89932;rotation=90;strokeWidth=2;strokeColor=#5A6EAB;" parent="1" vertex="1">
-          <mxGeometry x="462.38" y="29.5" width="20" height="89" as="geometry" />
+          <mxGeometry x="470" y="29.5" width="20" height="89" as="geometry" />
         </mxCell>
         <mxCell id="TQc7ubPpzNLARLeVcl0p-12" value="&lt;font color=&quot;#5a6eab&quot;&gt;12位&amp;nbsp; 序列号&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=2;fontColor=#C89932;" parent="1" vertex="1">
-          <mxGeometry x="427.88" y="31" width="89" height="30" as="geometry" />
+          <mxGeometry x="435.5" y="31" width="89" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
