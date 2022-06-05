@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T07:36:23.422Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Pwh-qgzwOrW10U85ZOZp" version="18.2.1" type="github"><diagram id="jk84KoCiqGRbvonOO5nR" name="Page-1">7Vlbc+I2FP41mmkfYCzJNz3axmSnk91e0tnd9qVjjAJujO0as8D++j3C8t0OkADTbUMmIH+6HZ1zPukTIOqsdneplyzfx3MeIqLMd4hOECGGSuBdAPscUKkEFmkwzyGlAh6CrzwHcYFugjlfSyyHsjgOsyBpgn4cRdzPGpiXpvG22ewxDucNIPEWvAM8+F7YRT8F82yZo5qmVPg7HiyWxcxMVsw8/2mRxptITocIdadTPKV59corhpLt10tvHm9rEHURddI4zvLSaufwUHi26bXpQG1pdsqj7JQOnx9mk3uSpvrdfoN/Dj//+dP7aCSN/eKFG14sQw9hPPsxhmHB6mwvHaX/sxGm2tW6R34cximiFrRLF7MfCGVIGOHAO1FxrUx/FA/UPsQnykbrQxaIflhJdtXYUFrIz4MR68SLeo3oG+XQbWAguRpp8KTekPomYyJn232VojP4NO/fHBPg3L4TbW55y1BLB2FVq8qadrazlBH8Fy+AvVUCeDRbJ8fNfc4zqscwm9WhE0PR9WVl3HMuHUy6U7NmaOXPTHbiyi+cmK+L1n8vCq9ekeDAWRO/ICseMfMZu01WvGiLOWNbbLjq6IwDzjp1rxNnZrG/4VrZwOcfDA3Di43vgpue5uncu+Wm14FJY0qS8Z3Al9kqBAALt2dp/MQdaX0UR1yYFIRhC/LCYBHBow8SgQNuf+FpFoD0sWTFKpjPxTT2dhlk/CHxfDHnFnQeYIczngv1oJRm1eWGVCBiTL6rQVJ+3PF4xbN0D01kLdXGppl3klrRVPPHbSW8VNPIsWVNdBHZzpNab1GOXQkeKEjN069//L8/uh9WTjpZp7NPf/xF45V+P8JH9M8ZaeOLvzPTRu3NcZchZiPLQq6JTAvZGLkGslzEDOTqyKaIaYVFs7TotY7i7WPoPfEj2Vb1+N/lHzaURvZhDXfSDzNzbGg9Gai8PgN//9U3NrNfkq8f7q3f7vlHP1SSkdaTga0AwM0hEUV/k4Z7OwX9zbMBn9WCVLkPy8xzyrylTq55RavMy4JYBIMpZWiLixDpBFtoIwu0kV2GpOP/nigNh4Th9p4w0rubQuH9RkQM/Uoh0Y9dis6SjHARclVkT5A5EWcdMBh4bOsHlkNBFQi4AGj9XfFRmCgv8+SZ/LpEjmjGmDZzhHaJa7JuitBrkda4EWnDIHlXI/Cwv0tOdthaRqLL7Db3LxArytp0xkqXzph0Y1VgF4+VedIR3yIplE1RhoOXqcgy37g5xM2xabD6qxl8rHeCr/fs5VcjKvt+iDrFzAH33YqoBmtvqoY21k6iqs6uFK3iK+EzT96hazlWmqTWkA06WpMgcw5nsYNsS1TBAJYJ1r0RvT9faOcQ7iM3029Ibtx3e/t3a2fN0l3rQtpZ1Uk7JIT1ULhPPJtXozB5EYW7X7pICpMahdtf8eSUtpA5FQXQHeKCrIlH4Pkbj/uThhhthXY9MQ2P1e9bh7raT4jU/QY=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-05T11:27:38.341Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="TOweqsnPWpJxluqwIR7j" version="18.2.1" type="github">
+  <diagram id="jk84KoCiqGRbvonOO5nR" name="Page-1">
+    <mxGraphModel dx="837" dy="451" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="550" pageHeight="190" background="#EFF1F3" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XSbDL2rr6Gyu1OlXZJMn-3" value="&lt;font style=&quot;background-color: rgb(239 , 241 , 243) ; font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#c89932&quot;&gt;0&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(74 , 145 , 155) ; font-size: 10px&quot;&gt; - 0 00000000&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#4a919b&quot; style=&quot;font-size: 10px&quot;&gt;00000000&lt;/font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#4a919b&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;00000000&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;00000000&lt;/font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;00000000 -&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;font color=&quot;#f19c99&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;00000000&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;00&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(90 , 110 , 171) ; font-size: 10px&quot;&gt;&amp;nbsp;- 0000&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#5a6eab&quot; style=&quot;font-size: 10px&quot;&gt;00000000&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="35.88" y="84" width="487" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="cjVENmCrDsrbWY_3om6L-1" value="&lt;font&gt;&lt;font color=&quot;#5c5c5c&quot; style=&quot;font-size: 14px&quot;&gt;雪花算法&lt;br&gt;snowflake&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="151" width="200" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="TQc7ubPpzNLARLeVcl0p-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontColor=#C89932;rotation=90;strokeWidth=2;strokeColor=#4A919B;" parent="1" vertex="1">
+          <mxGeometry x="190.88" y="-69" width="20" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="TQc7ubPpzNLARLeVcl0p-6" value="&lt;font color=&quot;#4a919b&quot;&gt;41位 时间戳&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=2;fontColor=#C89932;" parent="1" vertex="1">
+          <mxGeometry x="157.38" y="31" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQc7ubPpzNLARLeVcl0p-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontSize=2;fontColor=#4A919B;strokeColor=#C89932;strokeWidth=2;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="39.88" y="104" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="TQc7ubPpzNLARLeVcl0p-8" value="&lt;font&gt;1位 不用&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=2;fontColor=#C89932;" parent="1" vertex="1">
+          <mxGeometry x="15.879999999999999" y="116" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQc7ubPpzNLARLeVcl0p-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontSize=2;fontColor=#4A919B;strokeColor=#F19C99;strokeWidth=2;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="379.38" y="75.5" width="12" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="TQc7ubPpzNLARLeVcl0p-10" value="&lt;font color=&quot;#f19c99&quot;&gt;10位 工作机器id&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=2;fontColor=#C89932;" parent="1" vertex="1">
+          <mxGeometry x="337.38" y="116" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQc7ubPpzNLARLeVcl0p-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontColor=#C89932;rotation=90;strokeWidth=2;strokeColor=#5A6EAB;" parent="1" vertex="1">
+          <mxGeometry x="462.38" y="29.5" width="20" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="TQc7ubPpzNLARLeVcl0p-12" value="&lt;font color=&quot;#5a6eab&quot;&gt;12位&amp;nbsp; 序列号&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=2;fontColor=#C89932;" parent="1" vertex="1">
+          <mxGeometry x="427.88" y="31" width="89" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
