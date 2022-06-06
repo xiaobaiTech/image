@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T00:52:57.533Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="hA4-2G82m5cs8_8WcD6j" version="18.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T00:53:09.914Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="R0OQEyls8KIBk6-Sj-R-" version="18.2.1" type="github">
   <diagram id="jk84KoCiqGRbvonOO5nR" name="Page-1">
-    <mxGraphModel dx="577" dy="311" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="150" background="#EFF1F3" math="0" shadow="0">
+    <mxGraphModel dx="285" dy="154" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="150" background="#EFF1F3" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry x="248.63" y="103.25" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rd1cbC24IZSksuekIVlL-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontColor=#C89932;rotation=90;strokeWidth=2;strokeColor=#C89932;" vertex="1" parent="1">
-          <mxGeometry x="305.56" y="55.17" width="13.85" height="13.79" as="geometry" />
+          <mxGeometry x="306.78" y="56.39" width="11.41" height="13.79" as="geometry" />
         </mxCell>
         <mxCell id="Rd1cbC24IZSksuekIVlL-2" value="2位&amp;nbsp; 分表id" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=2;fontColor=#C89932;" vertex="1" parent="1">
           <mxGeometry x="280.63" y="22.25" width="89" height="30" as="geometry" />
