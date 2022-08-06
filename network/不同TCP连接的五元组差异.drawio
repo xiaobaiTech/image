@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2022-08-06T06:48:55.796Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Aq5Ykx_blQe8_2JWid2E" version="20.2.2" type="github"><diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">7Zldk5s2FIZ/jS67A0h86NKwdpo26Xh2k+k0dzJogVmMqJDXdn59JZBsHPAGb7NsOvWMxxavhIBzHl6OMIDReveOkyr7yBJaAMdKdgDeAseBLpLfSti3AkJBK6Q8T1rJOgr3+VfairZRN3lCa621kmCsEHl1KsasLGksTjTCOdueDntgRXIiVCSlPeE+JkVf/TNPRNaqgWUd9V9pnmb6yI6rO1Ykfkw525T6cMCB88XCXsC2e03MVHp8nZGEbTsSnAMYccZE21rvIlqoyJ5GbXGm93DanJZizA773+ovVpV/+fD5j9/tLSo/u/yvXxy3neaJFBsdj0/REsxdgB0QRMu8TMHcB3gGAgTmCIQzgJHqDuQHqq4wbLpcEPpgNm8aEQgcfc1ib8IsL79STUFWSgrjLC+SD2TPNsKoZiusBeFCk4IsNZgVBanqvNn1Vimcxhte50/0jtbtQKXSXUWafKiNB1aKe30CttpF5Yqa3vqRijjrDm2nsbHazosiYgXjzblDPIv8UMY17Mdcp+GJckF3HUnn4B1layr4Xg7Rvchr99B3i4P17bM9sudbwU3g+G7gOZYXYM9vR2QdCm3PufEdZEMfQ9uCyNazEH0zpIfjHomQDQ3FJYB4PUCeT+2dYjzMGM+/yqCSwoS7k1Lb8ZWyzdcFKeXNRQ450VLIGjNRkmCVbhX0QejmignB1oYEHRXVTjirPhGeUiN0E1mykr4BS31mnr8Tv0+SMVrrReQ48LVQ8fuoKKdYAGyDOQaBBQLZ8AD2QIjfL/sc6fSPhqObldYmmkcEOaZ2IP9vby5yu2MuaIZtHF4AijcaFNNrMtMhxbbwhWzo6e9UgMtUXvgL5iOFoLwkQiZRhqvuIXc495dT6OIBCuWDK1D8zeW3fGShHnoykurBk4l1oRNaC84e6TfsDOBEijwt5WYss0alHqq85LK8mOmOdZ4kzRNvm+WC3lckVsfcylpqWmz8S7ExzzZtN14fIs/q5xxar2UvwSX2smRcXA1mIoNxoDdgMMEPNpgx801gMAb6k4rIK4QOfLNSMbH3/t6o8l5GHj7YOMa4K3lp86vN6XbIpdpp5Wm2M+s9/ofmFVyMJPqpzAueMa9b5V8y33LlJD9Xv5rGryDqL7ps+IP9atR8U/iV3Ufvdf1qxc1g9S5BHllel/U++ri8GlrPD0Yz65/4GfJv3D7CxvS6yHn4lSwNDXAlq69AOpnblGESD++63Jve3ZB5+9ZBA1/6JuB5cxs13RTehgYYvC72jvfm+HcEgTGUn6RicobW8Wft5brcm9BgXB8PlE8DcPyr8mnMfFNYDJy6fLpWR4d7f3xF/415BW9rXu75mnt1zOv3KUJEBm7Vp6j3H12v8m6cUa4rF804C8y8MfX6WQQP8uq/jGUfv4ufk+4paNAbKMNte6AM9y9GTW4e/x1u7ez4Bzyc/wM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-06T06:52:25.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="G726bYxoL2uph55ucAVF" version="20.2.2" type="github">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="295" dy="332" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="250" background="#EFF1F3" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-25" value="不同TCP连接的五元组差异" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;rounded=0;sketch=0;fontSize=19;fillColor=#9AC7BF;" parent="1" vertex="1">
+          <mxGeometry x="46" y="294" width="708.8275862068967" height="162.72413793103414" as="geometry" />
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-26" value="" style="shape=tableRow;horizontal=0;startSize=127;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;rounded=0;sketch=0;fontSize=19;" parent="yJsZ0piZLUNK1w4nU5rY-25" vertex="1">
+          <mxGeometry y="40" width="708.8275862068967" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-27" value="发送方IP" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;rounded=0;sketch=0;fontSize=19;fontColor=#4A919B;" parent="yJsZ0piZLUNK1w4nU5rY-26" vertex="1">
+          <mxGeometry x="127" width="109" height="123" as="geometry">
+            <mxRectangle width="109" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-59" value="一致" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=19;fontColor=#4A919B;" parent="yJsZ0piZLUNK1w4nU5rY-27" vertex="1">
+          <mxGeometry x="21" y="67" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-28" value="发送方Port" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;rounded=0;sketch=0;fontSize=19;fontColor=#4A919B;" parent="yJsZ0piZLUNK1w4nU5rY-26" vertex="1">
+          <mxGeometry x="236" width="108" height="123" as="geometry">
+            <mxRectangle width="108" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-60" value="&lt;font color=&quot;#f19c99&quot;&gt;不一致&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=19;fontColor=#4A919B;" parent="yJsZ0piZLUNK1w4nU5rY-28" vertex="1">
+          <mxGeometry x="24" y="67" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-38" value="协议" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;rounded=0;sketch=0;fontSize=19;fontColor=#4A919B;" parent="yJsZ0piZLUNK1w4nU5rY-26" vertex="1">
+          <mxGeometry x="344" width="138" height="123" as="geometry">
+            <mxRectangle width="138" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-61" value="一致" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=19;fontColor=#4A919B;" parent="yJsZ0piZLUNK1w4nU5rY-38" vertex="1">
+          <mxGeometry x="7" y="47.5" width="124" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-41" value="接收方IP" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;rounded=0;sketch=0;fontSize=19;fontColor=#4A919B;" parent="yJsZ0piZLUNK1w4nU5rY-26" vertex="1">
+          <mxGeometry x="482" width="97" height="123" as="geometry">
+            <mxRectangle width="97" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-64" value="一致" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=19;fontColor=#4A919B;" parent="yJsZ0piZLUNK1w4nU5rY-41" vertex="1">
+          <mxGeometry x="18.5" y="67" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-29" value="接收方Port" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;rounded=0;sketch=0;fontSize=19;fontColor=#4A919B;" parent="yJsZ0piZLUNK1w4nU5rY-26" vertex="1">
+          <mxGeometry x="579" width="130" height="123" as="geometry">
+            <mxRectangle width="130" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-63" value="一致" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=19;fontColor=#4A919B;" parent="yJsZ0piZLUNK1w4nU5rY-29" vertex="1">
+          <mxGeometry x="35" y="68" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-51" value="&lt;b&gt;&lt;font color=&quot;#4a919b&quot;&gt;&lt;br&gt;五元组&lt;br&gt;是否一致&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="52" y="355" width="117" height="69" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
