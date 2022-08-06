@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2022-08-06T03:20:53.934Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="EyyVLxfetUTCNw-BOpbG" version="20.2.2" type="github"><diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">7VnRbpswFP0aP7YCDAYeIYGu07pFqrR1e5locAAVMANnofv62WAXSEiXbSWNtkRRAucaY99zDr4AgLOsviqDIr4hIU6BpoQ1gHOgaSZE7JcDjy2AbKsFojIJW0jpgNvkB25BVaLrJMSVwFqIEpLSpBiCS5LneEkHWFCWZDNstiJpOACKIMI7wO0ySHfRT0lIYzELRenwNziJYnFmzRCB+2D5EJVknYvTAQ16vq/6sA1ngexKtK/iICSbHgQ9AGclIbTdyuoZTnlmh1nz90Sfhl3inB5ywLX1YY795MGFXxd1WaXa+rN1IXr5HqRrLKfRDJY+yvw0U8S8ExVAdxMnFN8WwZJHN0wQDItplorwKknTGUlJ2RwLVQ36yGR4RUvygGUkJzk73N2dgRwOLimue5CY0RUmGablI2siopIMoT1DJH/TEalKIuMeiaquCwEJ8URPPXcZZBsiib+RUDiSUJRSnhrCZsllLLODvq059ywNcNV8+hCKxH9z7P0T4BnA8oGtAs8GlgIstoGAjYBrXy9kazbw++0eGNYOQMJbLLN80yGVo5T1+RVQkCZRznaXjEXMcJezlzB/OSKQJWHITzOqnU5dyssowhwqQoXmpbEjCjSiCahMJAl9Wo9BA9m2M6HH1JMzGXo1kwHPBI4LHF+0ceDZdDyKrENcpx/Rdea0rjOg5TAVTOe601va7GldtygJJayLs6E4+6e3jMl6fSpHmd5Mn8EJHaWfnKNUbeqFDAHLA47RrF86cNG5WtzSxI7P7CP6jJB3X+qPb9H79K5aZPTGuL6ZT10u6o6t2u6ENoOvabPRjE5eLu512blcHJcIQoe4zjqi66y9GqmKIB/wIAXBubqomudZDmugaUXdknnQ/cWc68GzgOPx7/OqaIewRxVscklR7eOuJ5agKtrnZ6uk5mxuXxn85jNlSWsO7xIstMO5oUoh9Fnv0BfnfX9R+/K8L0hJ/w+mVVO/1Iwh2XDE4kene7SInYrvX9ZY/wjbJ0v22NPts7n/evUe4fsEruTP3Eydrf3n90dH5prtdq/EmljvrSP0fgI=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-06T06:45:08.116Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="r-2M5SJtnkrZ1NnXZTcv" version="20.2.2" type="github">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="1623" dy="623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="250" background="#EFF1F3" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-25" value="TCP和Ping的五元组差异" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;rounded=0;sketch=0;fontSize=19;fillColor=#9AC7BF;" vertex="1" parent="1">
+          <mxGeometry x="46" y="294" width="708.8275862068967" height="162.72413793103414" as="geometry" />
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-26" value="" style="shape=tableRow;horizontal=0;startSize=127;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;rounded=0;sketch=0;fontSize=19;" vertex="1" parent="yJsZ0piZLUNK1w4nU5rY-25">
+          <mxGeometry y="40" width="708.8275862068967" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-27" value="发送方IP" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;rounded=0;sketch=0;fontSize=19;fontColor=#4A919B;" vertex="1" parent="yJsZ0piZLUNK1w4nU5rY-26">
+          <mxGeometry x="127" width="109" height="123" as="geometry">
+            <mxRectangle width="109" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-59" value="一致" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=19;fontColor=#4A919B;" vertex="1" parent="yJsZ0piZLUNK1w4nU5rY-27">
+          <mxGeometry x="21" y="67" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-28" value="发送方Port" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;rounded=0;sketch=0;fontSize=19;fontColor=#4A919B;" vertex="1" parent="yJsZ0piZLUNK1w4nU5rY-26">
+          <mxGeometry x="236" width="108" height="123" as="geometry">
+            <mxRectangle width="108" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-60" value="&lt;font color=&quot;#f19c99&quot;&gt;不一致&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=19;fontColor=#4A919B;" vertex="1" parent="yJsZ0piZLUNK1w4nU5rY-28">
+          <mxGeometry x="24" y="67" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-38" value="协议" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;rounded=0;sketch=0;fontSize=19;fontColor=#4A919B;" vertex="1" parent="yJsZ0piZLUNK1w4nU5rY-26">
+          <mxGeometry x="344" width="138" height="123" as="geometry">
+            <mxRectangle width="138" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-61" value="&lt;font color=&quot;#f19c99&quot;&gt;不一致&lt;br&gt;TCP vs ICMP&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=19;fontColor=#4A919B;" vertex="1" parent="yJsZ0piZLUNK1w4nU5rY-38">
+          <mxGeometry x="7" y="47.5" width="124" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-41" value="接收方IP" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;rounded=0;sketch=0;fontSize=19;fontColor=#4A919B;" vertex="1" parent="yJsZ0piZLUNK1w4nU5rY-26">
+          <mxGeometry x="482" width="97" height="123" as="geometry">
+            <mxRectangle width="97" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-64" value="一致" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=19;fontColor=#4A919B;" vertex="1" parent="yJsZ0piZLUNK1w4nU5rY-41">
+          <mxGeometry x="18.5" y="67" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-29" value="接收方Port" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;rounded=0;sketch=0;fontSize=19;fontColor=#4A919B;" vertex="1" parent="yJsZ0piZLUNK1w4nU5rY-26">
+          <mxGeometry x="579" width="130" height="123" as="geometry">
+            <mxRectangle width="130" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-63" value="&lt;font color=&quot;#f19c99&quot;&gt;不一致&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=19;fontColor=#4A919B;" vertex="1" parent="yJsZ0piZLUNK1w4nU5rY-29">
+          <mxGeometry x="35" y="68" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yJsZ0piZLUNK1w4nU5rY-51" value="&lt;b&gt;&lt;font color=&quot;#4a919b&quot;&gt;TCP和Ping&lt;br&gt;是否一致&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="55" y="365" width="111" height="67" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
