@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-08-28T03:20:13.013Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="xZZuD9jWOIKDN9iSrr9x" version="20.2.5" type="github"><diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">1VZdb5swFP01PEYCjEl4TEhIOmnSpkRr2pfKARdIDGbG+dqvn8E2HyKtVlWbsuQBOOf6cHPuMcEAfnZZMlQkX2mEiWGb0cUAc8O2LWg64lAhV4lAdyyBmKWRhMwWWKe/sFqp0WMa4VJhEuKUEp4WfTCkeY5D3sMQY/TcL3ulJOoBBYrxAFiHiAzRxzTiie7ONFtihdM4Ubd2gCJ2KDzEjB5zdT/DBosgsAIg6QxpLVVfJiii5w4EFgbwGaVcnmUXH5PK275twRts0zfDOf+TBcH16XR62K+ewdMkfphsze1uO5pIlRMiR6x/hkuE3qwsUF51za/KKffnsWp19kpzPirrOU5FATSLS0uKs7g6bvxvWkh0JLUko8xoZO3aQlw1aQn6nKQcrwsUVuxZRE5gCc+IokvO6KEZFFTt+JRQVquBoP5UeEpIB3emnuXNGgXN5DTHTVNdL5W9J8w4vnQg5e0S0wxzdhUlmvWgXKL2geu48vrcpsrVoU86gbKgSgxSSY4b7Xaa4kQN9APD9f7ScLVKVVzvTO1yWwigV32Ha1ebTTcZUqIvex+B8ab+eBb8w8A4nj0IDDDhrcA4nw/MYuq/fF8Ca7+aPr9k5o/lF7ofWXcYmEe8K2l4wPy/SE0wn9tj9/3UDCJyI0hvpgbq/6X7SY19IzV3u2U/Zb4DJz3z4WT4jPduPOJd88PWi8v21aDmOu9fYPEb</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-28T03:20:34.106Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ye5kJE0dD_rCj3zFzYwG" version="20.2.5" type="github">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="1053" dy="268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="430" background="#EFF1F3" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FyYvvIjHZ3Y8gI8X0XbX-8" value="&lt;span style=&quot;font-size: 50px&quot;&gt;TCP&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fontColor=#FFFFFF;fillColor=#4A919B;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="195" y="646" width="610" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="FyYvvIjHZ3Y8gI8X0XbX-9" value="&lt;span style=&quot;font-size: 50px&quot;&gt;&lt;font color=&quot;#595959&quot;&gt;HTTP&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fontColor=#FFFFFF;fillColor=#9AC7BF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="195" y="492" width="305" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="EAC_QG31jHAZ_m0VGJoj-1" value="&lt;span style=&quot;font-size: 50px&quot;&gt;&lt;font color=&quot;#595959&quot;&gt;Websocket&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fontColor=#FFFFFF;fillColor=#FDD276;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="500" y="492" width="305" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="EAC_QG31jHAZ_m0VGJoj-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fontColor=#FFFFFF;fillColor=#9AC7BF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="458" y="586" width="90" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
