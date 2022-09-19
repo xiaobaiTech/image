@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T02:22:54.805Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="ZuVx32BJ8jjZcYKRRAyP" version="14.4.8" type="github"><diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">1ZZNj5swEIZ/zRwrAebDHCGB7KVSt1HVdm9ecMAK4MhxStJf3zGYDShZafdQrZYD8rxjz+B5xjJAVu15o9ih/ipL3oDnlGcga/A8n8b4NsJlFAI/GoVKiXKU3KuwFX+5FR2rnkTJj4uJWspGi8NSLGTX8UIvNKaU7JfTdrJZZj2wit8I24I1t+pPUep6VEPHueoPXFS1zUwmxzMr9pWSp86mA4/shmd0t2wKZecfa1bKfiaRDMhKSanHUXte8cZUdqrauC5/xfvy2Yp3+i0LPDcgdtEf1pzs7iELIM4hTSDzzZtmkIWQhkCpGVAXknwYJJAEdiP6MtUOMyAmNNKdaJqVbKQaHCR3aOQEqMsDK4Q2rRE6aB61kns+TexkZ9bWum3Qck0Y2el5mOGxum0dMsSZimkW3VZi2idXmp9nkq3MhsuWa3XBKdZLYkvJNvFk9teOcAOr1bNueBGZ7cLqJfQVBQ4sjdfJeHfIhBBHkDiQUUhziAcyyOc9HFwvSdJPxMH/YAzkDgY8FxTo2pwUmg/HIYZ4PYCJIMYj47+dB6dB6HufhwfW5OOACPb0GDw97LN+8/z9+Bj9/hVlXzD01CQzSj/W324g4Bb1sop3qzwnZCXWiKpDs8DCcdRTUzCBV0ZiHa0oS5Mm7Wuh+RZZmpw93o+oDXcCN3twloSC/0IoWh4Z/5aQfweQ934+aF5vq8E3+yEg2T8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-19T03:09:21.284Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="JBXx5vF_Ji3dYwGKYl9q" version="20.3.2" type="github">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="1298" dy="767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="300" background="#EFF1F3" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iaZQ5ZHkEwGbRsQ7YX7E-21540" value="UDP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y6tWKe87q91qqtJlrP8P-21533" value="基于消息报" style="ellipse;strokeColor=none;html=1;fontColor=#FFFFFF;fontSize=25;shadow=0;fillColor=#7EC4C3;" vertex="1" parent="1">
+          <mxGeometry x="390" y="93" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="y6tWKe87q91qqtJlrP8P-21534" value="无连接" style="ellipse;strokeColor=none;html=1;fontColor=#FFFFFF;fontSize=25;shadow=0;fillColor=#35699A;" vertex="1" parent="1">
+          <mxGeometry x="40" y="93" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="y6tWKe87q91qqtJlrP8P-21535" value="不可靠的" style="ellipse;strokeColor=none;html=1;fontColor=#FFFFFF;fontSize=25;shadow=0;fillColor=#538AAF;" vertex="1" parent="1">
+          <mxGeometry x="215" y="93" width="150" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
