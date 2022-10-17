@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T13:16:13.731Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="qWq_uv-URAhbBVbh3f8p" version="20.4.0" type="github"><diagram id="jk84KoCiqGRbvonOO5nR" name="Page-1">5VZNb6MwEP01ltpDK2wnND5CSrpabbWHHLbamwMuoBrMOk5J9tfvOJgA+egSdW8rRcnwxn4eP+aNgui82D5pXmXPKhESES/ZIvqICJlSD74tsGsAwhyQ6jxpoB6wzH+LBsQtuskTsXZYAxmlpMmrIRirshSxGWBca1UPl70qmQyAiqfiBFjGXJ6iP/LEZA068bwO/yLyNGtPnrrEisdvqVab0h2HCI0WC7ygTbrgLZVbv854ouoeRCNE51op00TFdi6kVXao2uJC9lC2FqUZs+FluXr8RrT2n3Yb/F2+/Pz6XN6RhuWdy41or+FL4AtfFdBC1WbnhPJ/bVSbuFvvX2MAC6hfbbskRKn77bPESio9YAG1JpxhtjrdW9d1ux1u0zCMZ41njFFyynq/4nmy+QTxK2YxY2eIY1V8gnbKfcHPqHAPAS8qiMrVuuqRXTjjBCaDt0eM2Fo8M4UEAEO4Nlq9ibkrqlSlsKXmUh5BXOZpCY8xNJoAPHwX2uRgoMAlijxJ7DFhneVGLCse2zNrmBaA7R0ibA96h7L6Tev62HKKbQ9yTfwkVCGM3sESl6WzZsdu+Fh33qVk0mBZz7etbbkbF+mBuPMMBM42V1iIXm+hbnTcuZ6wTtLp6oZQ6DCoFErxyAT3YnprH6yC3pEDsfeRA9cVL8f4eM+y3/YPrYyiCQpnaMZQ9IDCAAUPKJoitrCfv7ZzU/nI2xzraMe30w5P6SGeelfKeL+/QoBm8w+vcK7W64bJyDd0oUDQ2DsUeIMihgKMQv8A3Y7VfazArKcv7sUP+HqBfRR4KGRjdf1vJt0MDyYduOh40hFCTiddO/2umHTw2P0R2ed6//Vo9Ac=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-17T13:19:56.619Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="OM7jtIlDuRfq6MDcGk2f" version="20.4.0" type="github">
+  <diagram id="jk84KoCiqGRbvonOO5nR" name="Page-1">
+    <mxGraphModel dx="348" dy="394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="150" background="#EFF1F3" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XSbDL2rr6Gyu1OlXZJMn-2" value="&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;font color=&quot;#4a919b&quot;&gt;www&lt;/font&gt;&lt;font color=&quot;#c89932&quot;&gt;.baidu&lt;/font&gt;&lt;font color=&quot;#f19c99&quot;&gt;.com&lt;/font&gt;&lt;font color=&quot;#5a6eab&quot;&gt;.&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="38" y="38" width="324" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XSbDL2rr6Gyu1OlXZJMn-3" value="&lt;font style=&quot;background-color: rgb(239 , 241 , 243) ; font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#4a919b&quot;&gt;三级域&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(200 , 153 , 50) ; font-size: 10px&quot;&gt;.二级域&lt;/span&gt;&lt;font color=&quot;#f19c99&quot; style=&quot;font-size: 10px&quot;&gt;.一级(顶级)域&lt;/font&gt;&lt;span style=&quot;color: rgb(90 , 110 , 171) ; font-size: 10px&quot;&gt;.根域&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="81" y="89" width="222" height="24" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
