@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T02:57:05.186Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="GQiBwFkusUB41VZcB3MP" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T04:11:48.805Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="u5mRrLjVR5LEiNDPDfi5" version="20.4.2" type="github">
   <diagram id="jk84KoCiqGRbvonOO5nR" name="Page-1">
-    <mxGraphModel dx="721" dy="814" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="710" pageHeight="420" background="#EFF1F3" math="0" shadow="0">
+    <mxGraphModel dx="558" dy="814" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="710" pageHeight="420" background="#EFF1F3" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,8 +227,8 @@
         <mxCell id="jqTghbCgG4KjzOf4Llh1-13" value="&lt;font color=&quot;#4a919b&quot;&gt;1 查询 www.baidu.com的IP&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#808080;" parent="1" vertex="1">
           <mxGeometry x="90.75" y="-399" width="72" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jqTghbCgG4KjzOf4Llh1-14" value="&lt;font color=&quot;#4a919b&quot;&gt;2 访问根域服务器&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#808080;" parent="1" vertex="1">
-          <mxGeometry x="269" y="-373" width="98" height="18" as="geometry" />
+        <mxCell id="jqTghbCgG4KjzOf4Llh1-14" value="&lt;font color=&quot;#4a919b&quot;&gt;2 缓存里查不到，去访问根域服务器&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#808080;" parent="1" vertex="1">
+          <mxGeometry x="269" y="-384" width="112" height="29" as="geometry" />
         </mxCell>
         <mxCell id="jqTghbCgG4KjzOf4Llh1-21" value="&lt;font color=&quot;#4a919b&quot;&gt;3 返回com域的地址&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#808080;" parent="1" vertex="1">
           <mxGeometry x="358" y="-307" width="126" height="21" as="geometry" />
