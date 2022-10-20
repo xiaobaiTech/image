@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T04:15:57.892Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="7y6V7fYrC2YaHfsd7hIb" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T04:17:58.276Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1RBlBUxHsrzNfyCUhHbk" version="20.4.2" type="github">
   <diagram id="jk84KoCiqGRbvonOO5nR" name="Page-1">
     <mxGraphModel dx="956" dy="1096" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="750" pageHeight="420" background="#EFF1F3" math="0" shadow="0">
       <root>
@@ -248,11 +248,11 @@
         <mxCell id="jqTghbCgG4KjzOf4Llh1-40" value="&lt;font color=&quot;#4a919b&quot;&gt;8 访问www服务器&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#808080;" parent="1" vertex="1">
           <mxGeometry x="220.5" y="-83" width="103.5" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="jqTghbCgG4KjzOf4Llh1-41" value="&lt;font color=&quot;#4a919b&quot;&gt;9 返回www.baidu.com的IP地址&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#808080;" parent="1" vertex="1">
+        <mxCell id="jqTghbCgG4KjzOf4Llh1-41" value="&lt;font color=&quot;#4a919b&quot;&gt;9 返回www.baidu.com的IP地址&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#808080;" parent="1" vertex="1">
           <mxGeometry x="174.75" y="-39" width="168.75" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="jqTghbCgG4KjzOf4Llh1-42" value="&lt;font color=&quot;#4a919b&quot;&gt;9 返回的IP，并更新缓存&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#808080;" parent="1" vertex="1">
-          <mxGeometry x="118.5" y="-345.31" width="102" height="48" as="geometry" />
+        <mxCell id="jqTghbCgG4KjzOf4Llh1-42" value="&lt;font color=&quot;#4a919b&quot;&gt;10 返回的IP，并更新缓存&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#808080;" parent="1" vertex="1">
+          <mxGeometry x="110.75" y="-346" width="102" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jqTghbCgG4KjzOf4Llh1-43" value="cdn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4A919B;" parent="1" vertex="1">
           <mxGeometry x="425" y="-77" width="60" height="30" as="geometry" />
@@ -271,6 +271,9 @@
         </mxCell>
         <mxCell id="hKu1rWYc8OHTahXIkLFF-1" value="&lt;font color=&quot;#4a919b&quot;&gt;0 浏览器和操作系统的缓存都没查到IP&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="15" y="-311" width="111.75" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hKu1rWYc8OHTahXIkLFF-2" value="&lt;font color=&quot;#4a919b&quot;&gt;11 收到IP，&lt;br&gt;更新缓存&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="7.5" y="-393.31" width="68.75" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
