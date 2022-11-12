@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-11-12T12:50:33.718Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="NfNCA1DG8wVvfBQH7AHn" version="20.5.1" type="github"><diagram id="jk84KoCiqGRbvonOO5nR" name="Page-1">7Vddj6IwFP01PGpKCyiPgjqbSeZjYzbzuOlABdZCsdRB99dvgfI1uOM4ies+yINezi339p5zaIKG3Hh/x3EaPjCfUA0Cf6+huQahPQXytwAOFTAxJhUQ8MivINACq+g3qUC9RneRTzKFVZBgjIoo7YMeSxLiiR6GOWd5f9maUb8HpDggA2DlYTpEXyJfhGosAFr8G4mCUHU268Qr9jYBZ7tEtdMgWiyX+hJV6RjXpdT6LMQ+yzsQWmjI5YyJKor3LqEFs33Wln/JNtvmJBGfeeBH5mzBd/ZETPvlMdj8Su4fnkaqyhumO1KPYVFZz1kzWbZgnTJeZqztrtiqI+dcl1cXApk4KEJrsCgwykq5Z3IBhOm+XNo+ZAXl/8LUZnPNnhbBFGqzMnD0IlZ7kUNV21FPVHw2HWGpAinm1GU6DyNBVin2imwuPSuxUMRUpTPB2Ya4aq6EJaTYbESp24yKjJmt207TqktyzRjhguw7kCL9jrCYCH6QS1QWAeUI9X5A267u89ZtUFdY2HGapYyDlcGDpnSrsgyU0MdFD+Ktff88esH5488Dd4RjWtb/IfpEc1zNRj31ryu6NXdMab661UDhIz74vOgQXVl0eET0d4zKEyotwjUl+1lxskouSOKrcO5RnGWR1ye2VQF8jWbiD47nkyR3SDTBkMMa44RiEb31yx8jVnV4ZlFpf6WhAc1xX0XdMMegc70rmbEd94iq0j2JTxaGYPJRYYF5QMSgcOmDhpavWwPdrHGuNSw4truXcRGffNzluqYxbqY50zTI/BemOdHluqYxb6Y51zQ2GE8u4pNB4UtZQ962XznV8vZDEi3+AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-12T12:51:01.298Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="zGWfLR5h4IytcEGtbjQr" version="20.5.1" type="github">
+  <diagram id="jk84KoCiqGRbvonOO5nR" name="Page-1">
+    <mxGraphModel dx="931" dy="710" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="300" background="#EFF1F3" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UsBq0QoOe59WNgkjnJMO-1" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 22px;&quot;&gt;存储层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4A919B;" parent="1" vertex="1">
+          <mxGeometry x="191" y="197" width="219" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gmq9JP-WawN_yrBtB566-1" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 22px;&quot;&gt;缓存层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#6DB5A8;" parent="1" vertex="1">
+          <mxGeometry x="191" y="121" width="219" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gmq9JP-WawN_yrBtB566-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=none;fillColor=#6DB5A8;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="313.3" y="43.000000000000114" as="sourcePoint" />
+            <mxPoint x="313.3" y="105.00000000000011" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmq9JP-WawN_yrBtB566-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=none;fillColor=#6DB5A8;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350.99999999999994" y="43.000000000000114" as="sourcePoint" />
+            <mxPoint x="350.99999999999994" y="105.00000000000011" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmq9JP-WawN_yrBtB566-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=none;fillColor=#6DB5A8;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240.99999999999994" y="43.000000000000114" as="sourcePoint" />
+            <mxPoint x="240.99999999999994" y="105.00000000000011" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmq9JP-WawN_yrBtB566-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=none;fillColor=#6DB5A8;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="278.7" y="43.000000000000114" as="sourcePoint" />
+            <mxPoint x="278.7" y="105.00000000000011" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
