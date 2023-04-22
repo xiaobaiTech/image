@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-04-22T00:00:21.254Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="J197NBOdx54BxXS-Hch2" version="21.2.0" type="github">
+  <diagram id="pm73N6I4ifg4NlOD--yJ" name="第 1 页">
+    <mxGraphModel dx="3412" dy="738" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gSiloYai4kwxxlvwlLZ5-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-779" y="999" width="173" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gSiloYai4kwxxlvwlLZ5-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#453e46;" vertex="1" parent="gSiloYai4kwxxlvwlLZ5-1">
+          <mxGeometry width="173" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gSiloYai4kwxxlvwlLZ5-3" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#118EC3;" vertex="1" parent="gSiloYai4kwxxlvwlLZ5-1">
+          <mxGeometry x="138" y="10" width="21" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gSiloYai4kwxxlvwlLZ5-4" value="" style="triangle;whiteSpace=wrap;html=1;flipH=1;fillColor=#118ec3;" vertex="1" parent="gSiloYai4kwxxlvwlLZ5-1">
+          <mxGeometry x="15" y="10" width="21" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gSiloYai4kwxxlvwlLZ5-5" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="gSiloYai4kwxxlvwlLZ5-1">
+          <mxGeometry width="173" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gSiloYai4kwxxlvwlLZ5-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#453e46;rotation=90;" vertex="1" parent="gSiloYai4kwxxlvwlLZ5-5">
+          <mxGeometry width="173" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gSiloYai4kwxxlvwlLZ5-7" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#118EC3;rotation=90;" vertex="1" parent="gSiloYai4kwxxlvwlLZ5-5">
+          <mxGeometry x="76" y="72" width="21" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gSiloYai4kwxxlvwlLZ5-8" value="" style="triangle;whiteSpace=wrap;html=1;flipH=1;fillColor=#118ec3;rotation=90;" vertex="1" parent="gSiloYai4kwxxlvwlLZ5-5">
+          <mxGeometry x="76" y="-51" width="21" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gSiloYai4kwxxlvwlLZ5-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e44037;" vertex="1" parent="gSiloYai4kwxxlvwlLZ5-5">
+          <mxGeometry x="61" y="4.5" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="gSiloYai4kwxxlvwlLZ5-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#453e46;rotation=90;strokeColor=none;" vertex="1" parent="gSiloYai4kwxxlvwlLZ5-5">
+          <mxGeometry x="92" y="22.25" width="58.5" height="15.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gSiloYai4kwxxlvwlLZ5-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#453e46;rotation=90;strokeColor=none;" vertex="1" parent="gSiloYai4kwxxlvwlLZ5-1">
+          <mxGeometry x="21.75" y="22.5" width="58.5" height="15.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
