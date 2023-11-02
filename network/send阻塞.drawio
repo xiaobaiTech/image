@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" modified="2023-11-02T14:00:12.710Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="xU-QPSSQq0M7qmSwIMdw" version="22.0.8" type="github">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="1237" dy="1314" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="550" background="#EFF1F3" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Zxyhw3o_makbFYxT9f12-17" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=5;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="35" y="-364" width="528" height="329" as="geometry" />
+        </mxCell>
+        <mxCell id="Zxyhw3o_makbFYxT9f12-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;labelBackgroundColor=none;fillColor=#E6D7C2;" parent="1" vertex="1">
+          <mxGeometry x="98" y="-266" width="400" height="217" as="geometry" />
+        </mxCell>
+        <mxCell id="pCjDIv-f0e-wGzuPs2K4-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFF1F3;" parent="1" vertex="1">
+          <mxGeometry x="234" y="-182" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Zxyhw3o_makbFYxT9f12-7" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=5;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="35" y="-514" width="530" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="Zxyhw3o_makbFYxT9f12-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;socket&amp;nbsp; send()&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;labelBackgroundColor=none;fillColor=#FDD276;" parent="1" vertex="1">
+          <mxGeometry x="57" y="-404" width="483" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="Zxyhw3o_makbFYxT9f12-11" value="&lt;font style=&quot;font-size: 24px&quot;&gt;用户态&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="38" y="-495" width="132.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zxyhw3o_makbFYxT9f12-12" value="&lt;font style=&quot;font-size: 24px&quot;&gt;内核态&lt;/font&gt;" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="53.25" y="-298" width="102" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="222Te1zxGotTQ1m0-dcR-3" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.code_file;fillColor=#535E80;" parent="1" vertex="1">
+          <mxGeometry x="253.91000000000003" y="-505" width="89.18" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="222Te1zxGotTQ1m0-dcR-5" value="" style="curved=1;endArrow=none;html=1;strokeColor=#535E80;strokeWidth=5;dashed=1;startArrow=classic;startFill=1;endFill=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="353" y="-434" as="sourcePoint" />
+            <mxPoint x="369" y="-190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="391" y="-419" />
+              <mxPoint x="418" y="-380" />
+              <mxPoint x="423" y="-291" />
+              <mxPoint x="398" y="-220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZfyCddCFMZxiEYEglCBR-1" value="&lt;font color=&quot;#333333&quot; face=&quot;open sans, clear sans, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;tcp_sendmsg 逻辑&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="-91" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfyCddCFMZxiEYEglCBR-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" parent="1" vertex="1">
+          <mxGeometry x="337" y="-182" width="16" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfyCddCFMZxiEYEglCBR-3" value="&lt;font color=&quot;#333333&quot; face=&quot;open sans, clear sans, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;发送缓冲区&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="-134" width="110" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfyCddCFMZxiEYEglCBR-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-182" width="16" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfyCddCFMZxiEYEglCBR-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" parent="1" vertex="1">
+          <mxGeometry x="303" y="-182" width="16" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfyCddCFMZxiEYEglCBR-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" parent="1" vertex="1">
+          <mxGeometry x="212" y="-203" width="16" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="222Te1zxGotTQ1m0-dcR-4" value="" style="curved=1;endArrow=classic;html=1;strokeColor=#535E80;strokeWidth=5;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-75" y="-406" as="sourcePoint" />
+            <mxPoint x="-50" y="-145" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-98" y="-390.5" />
+              <mxPoint x="-129" y="-320.5" />
+              <mxPoint x="-129" y="-225.5" />
+              <mxPoint x="-84" y="-155.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZfyCddCFMZxiEYEglCBR-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;1. 通过send &lt;br&gt;发送数据&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="87" y="-459" width="144" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfyCddCFMZxiEYEglCBR-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;2. 数据进入发送缓冲区&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="212" y="-240" width="144" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfyCddCFMZxiEYEglCBR-10" value="head" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="356" y="-174" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfyCddCFMZxiEYEglCBR-11" value="&lt;font style=&quot;font-size: 18px&quot;&gt;4. send&lt;br&gt;返回成功&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="364" y="-462" width="144" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfyCddCFMZxiEYEglCBR-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;3. 此时数据&lt;br&gt;并不发送出去&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="366" y="-233" width="144" height="48" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
