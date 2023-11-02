@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T15:15:54.140Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="zZ5Dh4zyPxgW4iNuDQlC" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T15:16:21.689Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="3-P0d6sHYuCBlFnU3O9X" version="22.0.8" type="github">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
     <mxGraphModel dx="900" dy="625" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="550" background="#EFF1F3" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="QBakC-ykdxP9H4MGca09-6" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;大数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4a909b;strokeColor=default;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="458.5" y="691" width="183.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QBakC-ykdxP9H4MGca09-7" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 31px;&quot;&gt;数据包长度 &amp;gt; MSS，分段&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="QBakC-ykdxP9H4MGca09-7" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 31px;&quot;&gt;数据包长度 &amp;gt; MSS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="377" y="610" width="404" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QBakC-ykdxP9H4MGca09-8" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;小数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#67AB9F;strokeColor=default;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="QBakC-ykdxP9H4MGca09-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="540.25" y="577" width="20" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="JsbYeZLbL6ksBWO8pZVl-1" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 31px;&quot;&gt;分段&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="642" y="757" width="72" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
