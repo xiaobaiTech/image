@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T14:23:13.732Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YbmbsLzOno6y6rILjKLg" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T14:38:22.292Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2bsGLLBDLAtW6kd7R8Ok" version="22.1.5" type="github">
   <diagram name="第 1 页" id="KIgSkonVb1hFCYbE4Fb7">
-    <mxGraphModel dx="2902" dy="1698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2612" dy="1528" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,8 @@
         <mxCell id="-HrjzHPNAKrxcW8g52i8-11" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 26px;&quot;&gt;端口号为80是服务端&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1144" width="285" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-HrjzHPNAKrxcW8g52i8-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="954" y="756" width="366" height="49" as="geometry" />
+        <mxCell id="-HrjzHPNAKrxcW8g52i8-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;strokeColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="954" y="762" width="366" height="43" as="geometry" />
         </mxCell>
         <mxCell id="-HrjzHPNAKrxcW8g52i8-13" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ececec;" vertex="1" parent="1">
           <mxGeometry x="627" y="1274" width="594" height="42" as="geometry" />
@@ -42,6 +42,42 @@
         </mxCell>
         <mxCell id="-HrjzHPNAKrxcW8g52i8-18" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;bbb.com&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="1427" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-HrjzHPNAKrxcW8g52i8-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;strokeColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="1316" y="805" width="404" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="-HrjzHPNAKrxcW8g52i8-20" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 34px;&quot;&gt;三次握手&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1404.5" y="771" width="141" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-HrjzHPNAKrxcW8g52i8-21" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 34px;&quot;&gt;四次挥手&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1407" y="1104" width="141" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-HrjzHPNAKrxcW8g52i8-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;strokeColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="1312" y="991" width="357" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="-HrjzHPNAKrxcW8g52i8-25" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;&lt;font color=&quot;#ececec&quot;&gt;HTTP请求&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1548" y="917" width="204" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-HrjzHPNAKrxcW8g52i8-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;strokeColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="289" y="799" width="156" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="-HrjzHPNAKrxcW8g52i8-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;strokeColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="294" y="981" width="156" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="-HrjzHPNAKrxcW8g52i8-28" value="" style="shape=flexArrow;endArrow=none;html=1;rounded=0;startArrow=block;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="861" as="sourcePoint" />
+            <mxPoint x="278" y="819" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HrjzHPNAKrxcW8g52i8-29" value="" style="shape=flexArrow;endArrow=none;html=1;rounded=0;startArrow=block;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184" y="972" as="sourcePoint" />
+            <mxPoint x="289" y="1007" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HrjzHPNAKrxcW8g52i8-31" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 26px;&quot;&gt;71-66&lt;br&gt;5s超时&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="897" width="106" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
