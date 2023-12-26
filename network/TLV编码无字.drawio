@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2023-12-26T01:08:47.652Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="cnTyQK3xFAZRuqHCco5_" version="22.1.11" type="github">
+  <diagram id="9fnjXT7nlAm7Ix4f8WDv" name="Page-1">
+    <mxGraphModel dx="1306" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="200" background="#EFF1F3" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-xf_uFu9KCXf6jcXoVjT-15" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Value&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#F19C99;" parent="1" vertex="1">
+          <mxGeometry x="633" y="70" width="317" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QUlrv-4_Xu6kGZL0T_s7-1" value="Tag" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#6DB5A8;" parent="1" vertex="1">
+          <mxGeometry x="120" y="70" width="256" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QUlrv-4_Xu6kGZL0T_s7-28" value="Length" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#FDD276;" parent="1" vertex="1">
+          <mxGeometry x="376" y="70" width="257" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
