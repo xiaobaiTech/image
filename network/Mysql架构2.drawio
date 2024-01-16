@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T13:46:42.649Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4fp2RR-Dgfx3KdBJifHN" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T14:00:55.354Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Y-fRN3noWVW0ksXvOAOr" version="22.1.18" type="github">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
-    <mxGraphModel dx="1306" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="550" pageHeight="520" background="#EFF1F3" math="0" shadow="0">
+    <mxGraphModel dx="2009" dy="1172" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="550" pageHeight="520" background="#EFF1F3" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,6 +81,33 @@
         </mxCell>
         <mxCell id="g8OvMQnWQ2Onqp0YjfBk-2" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#123f67&quot;&gt;@小白debug&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=30;textOpacity=30;" vertex="1" parent="1">
           <mxGeometry x="86.5" y="199.5" width="145" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="g8OvMQnWQ2Onqp0YjfBk-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;dashed=1;strokeColor=#123f67;" vertex="1" parent="1">
+          <mxGeometry x="604" y="12.5" width="451" height="484" as="geometry" />
+        </mxCell>
+        <mxCell id="g8OvMQnWQ2Onqp0YjfBk-16" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;存储层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#FFFFFF;fillColor=#4A919B;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="712.25" y="309" width="237.5" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="g8OvMQnWQ2Onqp0YjfBk-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;fontColor=#000000;fillColor=#FDD276;strokeColor=none;endWidth=35.714285714285715;endSize=7.885714285714285;width=20.714285714285715;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="825" y="221.25" as="sourcePoint" />
+            <mxPoint x="825.24" y="298.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8OvMQnWQ2Onqp0YjfBk-23" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#123f67&quot;&gt;存算一体架构&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="738" y="21" width="174" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="g8OvMQnWQ2Onqp0YjfBk-24" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#123f67&quot;&gt;@小白debug&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=30;textOpacity=30;" vertex="1" parent="1">
+          <mxGeometry x="479" y="246" width="145" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="g8OvMQnWQ2Onqp0YjfBk-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=none;fillColor=#123F67;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="519" y="227" as="sourcePoint" />
+            <mxPoint x="589" y="227" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8OvMQnWQ2Onqp0YjfBk-26" value="&lt;font style=&quot;font-size: 32px;&quot; color=&quot;#000000&quot;&gt;计算层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#FFFFFF;fillColor=#9AC7BF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="711.5" y="109" width="239" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
