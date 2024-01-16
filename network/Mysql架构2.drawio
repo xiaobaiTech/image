@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" modified="2024-01-16T13:45:19.885Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="u_jxDOACV6v6IhA5Hq7B" version="22.1.18" type="github">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="1306" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="550" pageHeight="520" background="#EFF1F3" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dk1CTfu6bBJQ-VM1H_dC-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;dashed=1;strokeColor=#123f67;" vertex="1" parent="1">
+          <mxGeometry x="50" y="18" width="451" height="484" as="geometry" />
+        </mxCell>
+        <mxCell id="23iM9Gp5Ji6-i4gFpPbt-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9AC7BF;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="83" y="70" width="388" height="291" as="geometry" />
+        </mxCell>
+        <mxCell id="23iM9Gp5Ji6-i4gFpPbt-3" value="&lt;font size=&quot;1&quot; color=&quot;#4a919b&quot;&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;server层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="108" y="73" width="102" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="23iM9Gp5Ji6-i4gFpPbt-4" value="&lt;font style=&quot;font-size: 16px&quot; color=&quot;#000000&quot;&gt;连接管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#FFFFFF;fillColor=#9AC7BF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="228.5" y="79" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="23iM9Gp5Ji6-i4gFpPbt-7" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;分析器&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#FFFFFF;fillColor=#9AC7BF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="228.5" y="156" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="23iM9Gp5Ji6-i4gFpPbt-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;fontColor=#000000;fillColor=#FDD276;strokeColor=none;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="277.08000000000004" y="120" as="sourcePoint" />
+            <mxPoint x="277" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23iM9Gp5Ji6-i4gFpPbt-13" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;执行器&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#FFFFFF;fillColor=#9AC7BF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="227.5" y="313" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="23iM9Gp5Ji6-i4gFpPbt-15" value="&lt;font style=&quot;font-size: 12px&quot;&gt;管理查询连接&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="324.5" y="83.5" width="118" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="23iM9Gp5Ji6-i4gFpPbt-16" value="&lt;font style=&quot;font-size: 12px&quot;&gt;sql词法语法分析&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="326" y="160.5" width="118" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="23iM9Gp5Ji6-i4gFpPbt-17" value="&lt;font style=&quot;font-size: 12px&quot;&gt;选择索引&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="326" y="239" width="118" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="23iM9Gp5Ji6-i4gFpPbt-18" value="&lt;font style=&quot;font-size: 12px&quot;&gt;调用引擎层接口&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="328.5" y="317.5" width="118" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="23iM9Gp5Ji6-i4gFpPbt-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4A919B;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="83" y="371.5" width="388" height="113.5" as="geometry" />
+        </mxCell>
+        <mxCell id="23iM9Gp5Ji6-i4gFpPbt-21" value="&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;MEMORY&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#FFFFFF;fillColor=#4A919B;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="348.5" y="407" width="106" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="23iM9Gp5Ji6-i4gFpPbt-22" value="&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;InnoDB&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#FFFFFF;fillColor=#4A919B;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="222.5" y="407" width="106" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="23iM9Gp5Ji6-i4gFpPbt-23" value="&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;MyISAM&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#FFFFFF;fillColor=#4A919B;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="99.5" y="407" width="106" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="23iM9Gp5Ji6-i4gFpPbt-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;fontColor=#000000;fillColor=#FDD276;strokeColor=none;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="275" y="357" as="sourcePoint" />
+            <mxPoint x="275.08000000000004" y="404" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23iM9Gp5Ji6-i4gFpPbt-25" value="&lt;font size=&quot;1&quot; color=&quot;#4a919b&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;存储引擎层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="102.5" y="371.5" width="107.5" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="M6mOt85n85NVgl_5BVDo-2" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;优化器&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#FFFFFF;fillColor=#9AC7BF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="228" y="234.5" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M6mOt85n85NVgl_5BVDo-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;fontColor=#000000;fillColor=#FDD276;strokeColor=none;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="276.58000000000004" y="197.5" as="sourcePoint" />
+            <mxPoint x="276.5" y="232.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6mOt85n85NVgl_5BVDo-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;fontColor=#000000;fillColor=#FDD276;strokeColor=none;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="275.7900000000001" y="276" as="sourcePoint" />
+            <mxPoint x="275.71000000000004" y="311" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dk1CTfu6bBJQ-VM1H_dC-3" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#123f67&quot;&gt;mysql&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="21" width="102" height="32" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
