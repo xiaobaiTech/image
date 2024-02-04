@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" modified="2024-02-04T23:28:22.137Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wpXpItB-v08RKuoKAR67" version="22.1.18" type="github">
+  <diagram id="9fnjXT7nlAm7Ix4f8WDv" name="Page-1">
+    <mxGraphModel dx="943" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="400" background="#EFF1F3" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6-F5uf0liDenhzwzIYql-8" value="&lt;font style=&quot;font-size: 23px&quot;&gt;响应的IP Header&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#F19C99;" parent="1" vertex="1">
+          <mxGeometry x="168.5" y="44" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahvg7rMZI_c4ys2AYmxL-1" value="ICMP报文" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#6DB5A8;" parent="1" vertex="1">
+          <mxGeometry x="408.5" y="44" width="383" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E-FlksGHg1m9Y40Cy73d-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;strokeWidth=3;strokeColor=#4A909B;" parent="1" vertex="1">
+          <mxGeometry x="589.5" y="-339" width="20" height="958" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8q_K3G2Tn0KAUshAS1X-1" value="原请求数据报的 IP 头部 + 前 64 位数据报文数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#F19C99;" parent="1" vertex="1">
+          <mxGeometry x="119.5" y="300" width="960" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8q_K3G2Tn0KAUshAS1X-2" value="&lt;font style=&quot;font-size: 23px&quot;&gt;8位 Type&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#6DB5A8;" parent="1" vertex="1">
+          <mxGeometry x="119.5" y="180" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8q_K3G2Tn0KAUshAS1X-3" value="&lt;font style=&quot;font-size: 23px&quot;&gt;8位 Code&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#6DB5A8;" parent="1" vertex="1">
+          <mxGeometry x="359.5" y="180" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8q_K3G2Tn0KAUshAS1X-4" value="&lt;font style=&quot;font-size: 23px&quot;&gt;16位 Checksum&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#6DB5A8;" parent="1" vertex="1">
+          <mxGeometry x="599.5" y="180" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8q_K3G2Tn0KAUshAS1X-5" value="未使用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#B9E0A5;" parent="1" vertex="1">
+          <mxGeometry x="119.5" y="240" width="960" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
