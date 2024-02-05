@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T13:47:02.805Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="s8xpMVpgKZTV1slUdfpk" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T13:53:50.982Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hpwtBzH-O-QoE90k93Nd" version="22.1.18" type="github">
   <diagram id="9fnjXT7nlAm7Ix4f8WDv" name="Page-1">
-    <mxGraphModel dx="1317" dy="2177" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="300" background="#EFF1F3" math="0" shadow="0">
+    <mxGraphModel dx="1633" dy="953" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="300" background="#EFF1F3" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="npbD_0i8toX5Kgmq1awr-16" value="&lt;font color=&quot;#4a909b&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;多模态推理&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="779" y="179" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5zGb_LtoR-WvMu9iLxvD-1" value="&lt;font color=&quot;#4a909b&quot; style=&quot;font-size: 21px;&quot;&gt;公众号：小白debug&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="161" y="25" width="282" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
